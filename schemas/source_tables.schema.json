@@ -1,0 +1,136 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "tables": {
+      "type": "object",
+      "properties": {
+        "smith_yiu_1992_upper": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "properties": {
+              "r": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "s": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "upper": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "page": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "locator": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "r",
+              "s",
+              "upper",
+              "page",
+              "locator"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "shapiro_2000_upper": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "properties": {
+              "r": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "s": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "upper": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "page": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "locator": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "r",
+              "s",
+              "upper",
+              "page",
+              "locator"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "shapiro_2000_sigma": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "properties": {
+              "r": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "s": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "sigma": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "page": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "locator": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "r",
+              "s",
+              "sigma",
+              "page",
+              "locator"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "smith_yiu_1992_upper",
+        "shapiro_2000_upper",
+        "shapiro_2000_sigma"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "schema_version",
+    "tables"
+  ],
+  "additionalProperties": false
+}

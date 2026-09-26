@@ -1,0 +1,146 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "derivations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "side": {
+            "enum": [
+              "lower",
+              "upper"
+            ]
+          },
+          "source_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "minItems": 1,
+            "uniqueItems": true
+          },
+          "source_locator": {
+            "type": "string",
+            "minLength": 1
+          },
+          "operation": {
+            "enum": [
+              "explicit specialization",
+              "scalar extension",
+              "direct statement",
+              "source restriction",
+              "direct sum",
+              "rank specialization",
+              "source restriction and Lam-Lam transfer",
+              "source restriction and explicit specialization",
+              "Lam-Lam transfer and explicit specialization"
+            ]
+          },
+          "inputs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "result": {
+            "type": "object",
+            "properties": {
+              "field": {
+                "const": "C"
+              },
+              "r": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "s": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "lower": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "upper": {
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "required": [
+              "field",
+              "r",
+              "s"
+            ],
+            "additionalProperties": false,
+            "oneOf": [
+              {
+                "required": [
+                  "lower"
+                ],
+                "not": {
+                  "required": [
+                    "upper"
+                  ]
+                }
+              },
+              {
+                "required": [
+                  "upper"
+                ],
+                "not": {
+                  "required": [
+                    "lower"
+                  ]
+                }
+              }
+            ]
+          },
+          "proof": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "minItems": 1,
+            "uniqueItems": true
+          },
+          "parameters": {
+            "type": "object"
+          },
+          "kind": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "id",
+          "side",
+          "source_ids",
+          "source_locator",
+          "operation",
+          "inputs",
+          "result",
+          "proof",
+          "parameters"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "derivations"
+  ],
+  "additionalProperties": false
+}

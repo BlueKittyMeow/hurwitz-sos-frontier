@@ -1,0 +1,28 @@
+{
+  "audit_date": "2026-09-26",
+  "scope": "1 <= r <= s <= 32",
+  "cells": 528,
+  "exact": 270,
+  "bounded": 258,
+  "unresolved": 0,
+  "source_count": 15,
+  "sources_by_status": {
+    "conference proceedings": 2,
+    "peer-reviewed journal": 11,
+    "public preprint": 1,
+    "scholarly book/monograph": 1
+  },
+  "numerical_source_count": 7,
+  "numerical_sources_by_status": {
+    "peer-reviewed journal": 5,
+    "public preprint": 1,
+    "scholarly book/monograph": 1
+  },
+  "oldest_numerical_sources": [
+    "antoniano-gitler-1984"
+  ],
+  "newest_numerical_sources": [
+    "zhang-zhu-2026"
+  ],
+  "derivation_count": 1056
+}

@@ -1,0 +1,266 @@
+# Complex cells with unequal audited bounds
+
+Audit date: 2026-09-26. Ordinary complex algebraic squares, with bilinear outputs. Bounds are the strongest found in the audited sources and documented elementary deductions. An unequal bracket does not assert that the exact value is unknown throughout all literature.
+
+Each bound links to its sources and its separate proof. See [known gaps](../audits/KNOWN_GAPS.md).
+
+| r | s | Lower | Upper | Exact? | Lower authority | Upper authority |
+|---:|---:|---:|---:|:---:|---|---|
+| 10 | 11 | [17](derivations.md#l-10-11) | [18](derivations.md#u-d0004) | no | [shapiro-2000](sources.md#shapiro-2000) | [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 10 | 12 | [17](derivations.md#l-10-12) | [18](derivations.md#u-d0003) | no | [shapiro-2000](sources.md#shapiro-2000) | [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 10 | 13 | [19](derivations.md#l-10-13) | [27](derivations.md#u-table-smith-yiu-1992-10-13) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 10 | 14 | [20](derivations.md#l-10-14) | [27](derivations.md#u-table-smith-yiu-1992-10-14) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 10 | 15 | [20](derivations.md#l-10-15) | [28](derivations.md#u-table-smith-yiu-1992-10-15) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 10 | 16 | [22](derivations.md#l-10-16) | [28](derivations.md#u-table-smith-yiu-1992-10-16) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 10 | 17 | [26](derivations.md#l-10-17) | [29](derivations.md#u-table-shapiro-2000-10-17) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 10 | 18 | [26](derivations.md#l-10-18) | [29](derivations.md#u-table-shapiro-2000-10-18) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 10 | 19 | [28](derivations.md#l-10-19) | [30](derivations.md#u-table-shapiro-2000-10-19) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 10 | 20 | [28](derivations.md#l-10-20) | [30](derivations.md#u-table-shapiro-2000-10-20) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 11 | 11 | [17](derivations.md#l-11-11) | [18](derivations.md#u-d0002) | no | [shapiro-2000](sources.md#shapiro-2000) | [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 11 | 12 | [17](derivations.md#l-11-12) | [18](derivations.md#u-d0001) | no | [shapiro-2000](sources.md#shapiro-2000) | [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 11 | 13 | [19](derivations.md#l-11-13) | [28](derivations.md#u-table-smith-yiu-1992-11-13) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 11 | 14 | [20](derivations.md#l-11-14) | [28](derivations.md#u-table-smith-yiu-1992-11-14) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 11 | 15 | [21](derivations.md#l-11-15) | [30](derivations.md#u-table-smith-yiu-1992-11-15) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 11 | 16 | [23](derivations.md#l-11-16) | [30](derivations.md#u-table-smith-yiu-1992-11-16) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 11 | 17 | [27](derivations.md#l-11-17) | [32](derivations.md#u-table-shapiro-2000-11-17) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 11 | 18 | [28](derivations.md#l-11-18) | [32](derivations.md#u-table-shapiro-2000-11-18) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 11 | 19 | [28](derivations.md#l-11-19) | [32](derivations.md#u-table-shapiro-2000-11-19) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 11 | 20 | [28](derivations.md#l-11-20) | [32](derivations.md#u-table-shapiro-2000-11-20) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 11 | 21 | [31](derivations.md#l-11-21) | [34](derivations.md#u-d0007) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 11 | 22 | [32](derivations.md#l-11-22) | [36](derivations.md#u-d0008) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 11 | 23 | [32](derivations.md#l-11-23) | [36](derivations.md#u-d0010) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 11 | 24 | [32](derivations.md#l-11-24) | [36](derivations.md#u-d0012) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 11 | 25 | [32](derivations.md#l-11-25) | [46](derivations.md#u-table-shapiro-2000-11-25) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 11 | 26 | [32](derivations.md#l-11-26) | [46](derivations.md#u-d0016) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 11 | 27 | [32](derivations.md#l-11-27) | [48](derivations.md#u-table-shapiro-2000-11-27) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 11 | 28 | [32](derivations.md#l-11-28) | [48](derivations.md#u-table-shapiro-2000-11-28) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 11 | 29 | [32](derivations.md#l-11-29) | [48](derivations.md#u-table-shapiro-2000-11-29) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 11 | 30 | [32](derivations.md#l-11-30) | [50](derivations.md#u-d0020) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 11 | 31 | [33](derivations.md#l-11-31) | [50](derivations.md#u-d0022) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 11 | 32 | [34](derivations.md#l-11-32) | [50](derivations.md#u-d0025) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 12 | 12 | [17](derivations.md#l-12-12) | [18](derivations.md#u-zz-12-12) | no | [shapiro-2000](sources.md#shapiro-2000) | [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 12 | 13 | [19](derivations.md#l-12-13) | [28](derivations.md#u-table-smith-yiu-1992-12-13) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 12 | 14 | [20](derivations.md#l-12-14) | [30](derivations.md#u-table-smith-yiu-1992-12-14) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 12 | 15 | [21](derivations.md#l-12-15) | [30](derivations.md#u-d0005) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 12 | 16 | [23](derivations.md#l-12-16) | [30](derivations.md#u-d0006) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 12 | 17 | [28](derivations.md#l-12-17) | [32](derivations.md#u-table-shapiro-2000-12-17) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 12 | 18 | [28](derivations.md#l-12-18) | [32](derivations.md#u-table-shapiro-2000-12-18) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 12 | 19 | [28](derivations.md#l-12-19) | [32](derivations.md#u-table-shapiro-2000-12-19) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 12 | 20 | [28](derivations.md#l-12-20) | [32](derivations.md#u-table-shapiro-2000-12-20) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 12 | 21 | [32](derivations.md#l-12-21) | [34](derivations.md#u-d0009) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 12 | 22 | [32](derivations.md#l-12-22) | [36](derivations.md#u-d0011) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 12 | 23 | [32](derivations.md#l-12-23) | [36](derivations.md#u-d0013) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 12 | 24 | [32](derivations.md#l-12-24) | [36](derivations.md#u-d0014) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 12 | 25 | [32](derivations.md#l-12-25) | [46](derivations.md#u-d0017) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 12 | 26 | [32](derivations.md#l-12-26) | [48](derivations.md#u-table-shapiro-2000-12-26) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 12 | 27 | [32](derivations.md#l-12-27) | [48](derivations.md#u-table-shapiro-2000-12-27) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 12 | 28 | [32](derivations.md#l-12-28) | [48](derivations.md#u-table-shapiro-2000-12-28) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 12 | 29 | [32](derivations.md#l-12-29) | [48](derivations.md#u-table-shapiro-2000-12-29) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 12 | 30 | [32](derivations.md#l-12-30) | [50](derivations.md#u-d0023) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 12 | 31 | [33](derivations.md#l-12-31) | [50](derivations.md#u-d0026) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 12 | 32 | [34](derivations.md#l-12-32) | [50](derivations.md#u-d0028) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 13 | 13 | [19](derivations.md#l-13-13) | [28](derivations.md#u-table-smith-yiu-1992-13-13) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 13 | 14 | [23](derivations.md#l-13-14) | [32](derivations.md#u-table-smith-yiu-1992-13-14) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 13 | 15 | [23](derivations.md#l-13-15) | [32](derivations.md#u-table-smith-yiu-1992-13-15) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 13 | 16 | [23](derivations.md#l-13-16) | [32](derivations.md#u-table-smith-yiu-1992-13-16) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 13 | 17 | [29](derivations.md#l-13-17) | [32](derivations.md#u-table-shapiro-2000-13-17) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 18 | [30](derivations.md#l-13-18) | [32](derivations.md#u-table-shapiro-2000-13-18) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 19 | [31](derivations.md#l-13-19) | [43](derivations.md#u-table-shapiro-2000-13-19) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 20 | [32](derivations.md#l-13-20) | [44](derivations.md#u-table-shapiro-2000-13-20) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 21 | [32](derivations.md#l-13-21) | [44](derivations.md#u-table-shapiro-2000-13-21) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 22 | [32](derivations.md#l-13-22) | [44](derivations.md#u-table-shapiro-2000-13-22) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 23 | [32](derivations.md#l-13-23) | [48](derivations.md#u-table-shapiro-2000-13-23) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 24 | [32](derivations.md#l-13-24) | [48](derivations.md#u-table-shapiro-2000-13-24) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 25 | [32](derivations.md#l-13-25) | [48](derivations.md#u-table-shapiro-2000-13-25) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 26 | [32](derivations.md#l-13-26) | [48](derivations.md#u-table-shapiro-2000-13-26) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 27 | [32](derivations.md#l-13-27) | [48](derivations.md#u-table-shapiro-2000-13-27) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 28 | [32](derivations.md#l-13-28) | [58](derivations.md#u-table-shapiro-2000-13-28) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 29 | [33](derivations.md#l-13-29) | [58](derivations.md#u-table-shapiro-2000-13-29) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 30 | [34](derivations.md#l-13-30) | [58](derivations.md#u-table-shapiro-2000-13-30) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 31 | [35](derivations.md#l-13-31) | [58](derivations.md#u-table-shapiro-2000-13-31) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 13 | 32 | [36](derivations.md#l-13-32) | [58](derivations.md#u-table-shapiro-2000-13-32) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 14 | [23](derivations.md#l-14-14) | [32](derivations.md#u-table-smith-yiu-1992-14-14) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 14 | 15 | [23](derivations.md#l-14-15) | [32](derivations.md#u-table-smith-yiu-1992-14-15) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 14 | 16 | [23](derivations.md#l-14-16) | [32](derivations.md#u-table-smith-yiu-1992-14-16) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 14 | 17 | [30](derivations.md#l-14-17) | [32](derivations.md#u-table-shapiro-2000-14-17) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 18 | [30](derivations.md#l-14-18) | [32](derivations.md#u-table-shapiro-2000-14-18) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 19 | [32](derivations.md#l-14-19) | [43](derivations.md#u-table-shapiro-2000-14-19) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 20 | [32](derivations.md#l-14-20) | [44](derivations.md#u-table-shapiro-2000-14-20) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 21 | [32](derivations.md#l-14-21) | [46](derivations.md#u-table-shapiro-2000-14-21) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 22 | [32](derivations.md#l-14-22) | [48](derivations.md#u-table-shapiro-2000-14-22) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 23 | [32](derivations.md#l-14-23) | [48](derivations.md#u-table-shapiro-2000-14-23) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 24 | [32](derivations.md#l-14-24) | [48](derivations.md#u-table-shapiro-2000-14-24) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 25 | [32](derivations.md#l-14-25) | [48](derivations.md#u-table-shapiro-2000-14-25) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 26 | [32](derivations.md#l-14-26) | [48](derivations.md#u-table-shapiro-2000-14-26) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 27 | [32](derivations.md#l-14-27) | [48](derivations.md#u-table-shapiro-2000-14-27) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 28 | [32](derivations.md#l-14-28) | [58](derivations.md#u-table-shapiro-2000-14-28) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 29 | [33](derivations.md#l-14-29) | [58](derivations.md#u-table-shapiro-2000-14-29) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 30 | [34](derivations.md#l-14-30) | [58](derivations.md#u-table-shapiro-2000-14-30) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 31 | [35](derivations.md#l-14-31) | [58](derivations.md#u-table-shapiro-2000-14-31) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 14 | 32 | [36](derivations.md#l-14-32) | [58](derivations.md#u-table-shapiro-2000-14-32) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 15 | 15 | [23](derivations.md#l-15-15) | [32](derivations.md#u-table-smith-yiu-1992-15-15) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 15 | 16 | [23](derivations.md#l-15-16) | [32](derivations.md#u-table-smith-yiu-1992-15-16) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 15 | 17 | [31](derivations.md#l-15-17) | [32](derivations.md#u-table-shapiro-2000-15-17) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 15 | 19 | [32](derivations.md#l-15-19) | [44](derivations.md#u-table-shapiro-2000-15-19) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 15 | 20 | [32](derivations.md#l-15-20) | [46](derivations.md#u-table-shapiro-2000-15-20) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 15 | 21 | [32](derivations.md#l-15-21) | [46](derivations.md#u-d0015) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 15 | 22 | [32](derivations.md#l-15-22) | [48](derivations.md#u-table-shapiro-2000-15-22) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 15 | 23 | [32](derivations.md#l-15-23) | [48](derivations.md#u-table-shapiro-2000-15-23) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 15 | 24 | [32](derivations.md#l-15-24) | [48](derivations.md#u-table-shapiro-2000-15-24) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 15 | 25 | [32](derivations.md#l-15-25) | [48](derivations.md#u-table-shapiro-2000-15-25) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 15 | 26 | [32](derivations.md#l-15-26) | [48](derivations.md#u-table-shapiro-2000-15-26) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 15 | 27 | [32](derivations.md#l-15-27) | [48](derivations.md#u-table-shapiro-2000-15-27) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 15 | 28 | [32](derivations.md#l-15-28) | [60](derivations.md#u-table-shapiro-2000-15-28) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 15 | 29 | [33](derivations.md#l-15-29) | [62](derivations.md#u-table-shapiro-2000-15-29) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 15 | 30 | [34](derivations.md#l-15-30) | [62](derivations.md#u-d0031) | no | [xie-2014](sources.md#xie-2014) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 15 | 31 | [35](derivations.md#l-15-31) | [64](derivations.md#u-table-shapiro-2000-15-31) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 15 | 32 | [36](derivations.md#l-15-32) | [64](derivations.md#u-table-shapiro-2000-15-32) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 16 | 16 | [23](derivations.md#l-16-16) | [32](derivations.md#u-table-smith-yiu-1992-16-16) | no | [shapiro-2000](sources.md#shapiro-2000) | [smith-yiu-1992](sources.md#smith-yiu-1992) |
+| 16 | 19 | [32](derivations.md#l-16-19) | [44](derivations.md#u-table-shapiro-2000-16-19) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 16 | 20 | [32](derivations.md#l-16-20) | [46](derivations.md#u-table-shapiro-2000-16-20) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 16 | 21 | [32](derivations.md#l-16-21) | [46](derivations.md#u-d0018) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 16 | 22 | [32](derivations.md#l-16-22) | [48](derivations.md#u-table-shapiro-2000-16-22) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 16 | 23 | [32](derivations.md#l-16-23) | [48](derivations.md#u-table-shapiro-2000-16-23) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 16 | 24 | [32](derivations.md#l-16-24) | [48](derivations.md#u-table-shapiro-2000-16-24) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 16 | 25 | [32](derivations.md#l-16-25) | [48](derivations.md#u-table-shapiro-2000-16-25) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 16 | 26 | [32](derivations.md#l-16-26) | [48](derivations.md#u-table-shapiro-2000-16-26) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 16 | 27 | [32](derivations.md#l-16-27) | [48](derivations.md#u-table-shapiro-2000-16-27) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 16 | 28 | [32](derivations.md#l-16-28) | [60](derivations.md#u-table-shapiro-2000-16-28) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 16 | 29 | [33](derivations.md#l-16-29) | [62](derivations.md#u-table-shapiro-2000-16-29) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 16 | 30 | [34](derivations.md#l-16-30) | [62](derivations.md#u-d0033) | no | [xie-2014](sources.md#xie-2014) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 16 | 31 | [35](derivations.md#l-16-31) | [64](derivations.md#u-table-shapiro-2000-16-31) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 16 | 32 | [36](derivations.md#l-16-32) | [64](derivations.md#u-table-shapiro-2000-16-32) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 19 | [32](derivations.md#l-17-19) | [49](derivations.md#u-table-shapiro-2000-17-19) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 20 | [32](derivations.md#l-17-20) | [50](derivations.md#u-table-shapiro-2000-17-20) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 21 | [32](derivations.md#l-17-21) | [51](derivations.md#u-table-shapiro-2000-17-21) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 22 | [32](derivations.md#l-17-22) | [52](derivations.md#u-table-shapiro-2000-17-22) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 23 | [32](derivations.md#l-17-23) | [53](derivations.md#u-table-shapiro-2000-17-23) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 24 | [32](derivations.md#l-17-24) | [54](derivations.md#u-table-shapiro-2000-17-24) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 25 | [32](derivations.md#l-17-25) | [55](derivations.md#u-table-shapiro-2000-17-25) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 26 | [32](derivations.md#l-17-26) | [56](derivations.md#u-table-shapiro-2000-17-26) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 27 | [32](derivations.md#l-17-27) | [57](derivations.md#u-table-shapiro-2000-17-27) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 28 | [32](derivations.md#l-17-28) | [61](derivations.md#u-table-shapiro-2000-17-28) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 29 | [34](derivations.md#l-17-29) | [64](derivations.md#u-table-shapiro-2000-17-29) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 30 | [34](derivations.md#l-17-30) | [64](derivations.md#u-table-shapiro-2000-17-30) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 31 | [36](derivations.md#l-17-31) | [64](derivations.md#u-table-shapiro-2000-17-31) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 17 | 32 | [36](derivations.md#l-17-32) | [64](derivations.md#u-table-shapiro-2000-17-32) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 18 | [32](derivations.md#l-18-18) | [50](derivations.md#u-table-shapiro-2000-18-18) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 19 | [32](derivations.md#l-18-19) | [50](derivations.md#u-table-shapiro-2000-18-19) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 20 | [32](derivations.md#l-18-20) | [52](derivations.md#u-table-shapiro-2000-18-20) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 21 | [32](derivations.md#l-18-21) | [52](derivations.md#u-table-shapiro-2000-18-21) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 22 | [32](derivations.md#l-18-22) | [54](derivations.md#u-table-shapiro-2000-18-22) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 23 | [32](derivations.md#l-18-23) | [54](derivations.md#u-table-shapiro-2000-18-23) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 24 | [32](derivations.md#l-18-24) | [56](derivations.md#u-table-shapiro-2000-18-24) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 25 | [32](derivations.md#l-18-25) | [56](derivations.md#u-table-shapiro-2000-18-25) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 26 | [32](derivations.md#l-18-26) | [57](derivations.md#u-table-shapiro-2000-18-26) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 27 | [32](derivations.md#l-18-27) | [57](derivations.md#u-table-shapiro-2000-18-27) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 28 | [32](derivations.md#l-18-28) | [64](derivations.md#u-table-shapiro-2000-18-28) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 29 | [35](derivations.md#l-18-29) | [64](derivations.md#u-table-shapiro-2000-18-29) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 30 | [36](derivations.md#l-18-30) | [64](derivations.md#u-table-shapiro-2000-18-30) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 31 | [36](derivations.md#l-18-31) | [64](derivations.md#u-table-shapiro-2000-18-31) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 18 | 32 | [36](derivations.md#l-18-32) | [64](derivations.md#u-table-shapiro-2000-18-32) | no | [xie-2014](sources.md#xie-2014) | [shapiro-2000](sources.md#shapiro-2000) |
+| 19 | 19 | [32](derivations.md#l-19-19) | [56](derivations.md#u-table-shapiro-2000-19-19) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 19 | 20 | [32](derivations.md#l-19-20) | [56](derivations.md#u-table-shapiro-2000-19-20) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 19 | 21 | [33](derivations.md#l-19-21) | [58](derivations.md#u-d0019) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 19 | 22 | [33](derivations.md#l-19-22) | [60](derivations.md#u-table-shapiro-2000-19-22) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 19 | 23 | [35](derivations.md#l-19-23) | [60](derivations.md#u-table-shapiro-2000-19-23) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 19 | 24 | [35](derivations.md#l-19-24) | [60](derivations.md#u-d0027) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 19 | 25 | [37](derivations.md#l-19-25) | [64](derivations.md#u-table-shapiro-2000-19-25) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 19 | 26 | [37](derivations.md#l-19-26) | [64](derivations.md#u-table-shapiro-2000-19-26) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 19 | 27 | [39](derivations.md#l-19-27) | [64](derivations.md#u-table-shapiro-2000-19-27) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 19 | 28 | [39](derivations.md#l-19-28) | [64](derivations.md#u-table-shapiro-2000-19-28) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 19 | 29 | [41](derivations.md#l-19-29) | [64](derivations.md#u-table-shapiro-2000-19-29) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 19 | 30 | [41](derivations.md#l-19-30) | [64](derivations.md#u-table-shapiro-2000-19-30) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 19 | 31 | [43](derivations.md#l-19-31) | [64](derivations.md#u-table-shapiro-2000-19-31) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 19 | 32 | [43](derivations.md#l-19-32) | [64](derivations.md#u-table-shapiro-2000-19-32) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 20 | 20 | [32](derivations.md#l-20-20) | [56](derivations.md#u-table-shapiro-2000-20-20) | no | [dugger-isaksen-2007](sources.md#dugger-isaksen-2007) | [shapiro-2000](sources.md#shapiro-2000) |
+| 20 | 21 | [33](derivations.md#l-20-21) | [58](derivations.md#u-d0021) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 20 | 22 | [33](derivations.md#l-20-22) | [60](derivations.md#u-table-shapiro-2000-20-22) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 20 | 23 | [35](derivations.md#l-20-23) | [60](derivations.md#u-table-shapiro-2000-20-23) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 20 | 24 | [35](derivations.md#l-20-24) | [60](derivations.md#u-d0029) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 20 | 25 | [37](derivations.md#l-20-25) | [64](derivations.md#u-table-shapiro-2000-20-25) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 20 | 26 | [37](derivations.md#l-20-26) | [64](derivations.md#u-table-shapiro-2000-20-26) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 20 | 27 | [39](derivations.md#l-20-27) | [64](derivations.md#u-table-shapiro-2000-20-27) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 20 | 28 | [39](derivations.md#l-20-28) | [64](derivations.md#u-table-shapiro-2000-20-28) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 20 | 29 | [41](derivations.md#l-20-29) | [64](derivations.md#u-table-shapiro-2000-20-29) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 20 | 30 | [41](derivations.md#l-20-30) | [64](derivations.md#u-table-shapiro-2000-20-30) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 20 | 31 | [43](derivations.md#l-20-31) | [64](derivations.md#u-table-shapiro-2000-20-31) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 20 | 32 | [43](derivations.md#l-20-32) | [64](derivations.md#u-table-shapiro-2000-20-32) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 21 | 21 | [33](derivations.md#l-21-21) | [63](derivations.md#u-d0024) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 21 | 22 | [33](derivations.md#l-21-22) | [64](derivations.md#u-table-shapiro-2000-21-22) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 21 | 23 | [37](derivations.md#l-21-23) | [64](derivations.md#u-table-shapiro-2000-21-23) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 21 | 24 | [37](derivations.md#l-21-24) | [64](derivations.md#u-table-shapiro-2000-21-24) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 21 | 25 | [37](derivations.md#l-21-25) | [72](derivations.md#u-table-shapiro-2000-21-25) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 21 | 26 | [37](derivations.md#l-21-26) | [76](derivations.md#u-table-shapiro-2000-21-26) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 21 | 27 | [41](derivations.md#l-21-27) | [77](derivations.md#u-table-shapiro-2000-21-27) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 21 | 28 | [41](derivations.md#l-21-28) | [80](derivations.md#u-table-shapiro-2000-21-28) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 21 | 29 | [41](derivations.md#l-21-29) | [80](derivations.md#u-table-shapiro-2000-21-29) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 21 | 30 | [41](derivations.md#l-21-30) | [82](derivations.md#u-d0035) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 21 | 31 | [45](derivations.md#l-21-31) | [82](derivations.md#u-d0036) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) + [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 21 | 32 | [45](derivations.md#l-21-32) | [82](derivations.md#u-d0039) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) + [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 22 | 22 | [33](derivations.md#l-22-22) | [66](derivations.md#u-d0030) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 22 | 23 | [37](derivations.md#l-22-23) | [68](derivations.md#u-d0032) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 22 | 24 | [37](derivations.md#l-22-24) | [68](derivations.md#u-d0034) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 22 | 25 | [37](derivations.md#l-22-25) | [72](derivations.md#u-table-shapiro-2000-22-25) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 22 | 26 | [37](derivations.md#l-22-26) | [78](derivations.md#u-table-shapiro-2000-22-26) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 22 | 27 | [41](derivations.md#l-22-27) | [80](derivations.md#u-table-shapiro-2000-22-27) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 22 | 28 | [41](derivations.md#l-22-28) | [80](derivations.md#u-table-shapiro-2000-22-28) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 22 | 29 | [41](derivations.md#l-22-29) | [80](derivations.md#u-table-shapiro-2000-22-29) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 22 | 30 | [41](derivations.md#l-22-30) | [82](derivations.md#u-d0037) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) + [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 22 | 31 | [45](derivations.md#l-22-31) | [82](derivations.md#u-d0040) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 22 | 32 | [45](derivations.md#l-22-32) | [82](derivations.md#u-d0041) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 23 | 23 | [37](derivations.md#l-23-23) | [72](derivations.md#u-table-shapiro-2000-23-23) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 23 | 24 | [37](derivations.md#l-23-24) | [72](derivations.md#u-table-shapiro-2000-23-24) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 23 | 25 | [37](derivations.md#l-23-25) | [72](derivations.md#u-table-shapiro-2000-23-25) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 23 | 26 | [37](derivations.md#l-23-26) | [78](derivations.md#u-table-shapiro-2000-23-26) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 23 | 27 | [43](derivations.md#l-23-27) | [80](derivations.md#u-table-shapiro-2000-23-27) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 23 | 28 | [43](derivations.md#l-23-28) | [84](derivations.md#u-table-shapiro-2000-23-28) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 23 | 29 | [45](derivations.md#l-23-29) | [88](derivations.md#u-table-shapiro-2000-23-29) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 23 | 30 | [45](derivations.md#l-23-30) | [90](derivations.md#u-table-shapiro-2000-23-30) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 23 | 31 | [45](derivations.md#l-23-31) | [90](derivations.md#u-table-shapiro-2000-23-31) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 23 | 32 | [45](derivations.md#l-23-32) | [90](derivations.md#u-table-shapiro-2000-23-32) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 24 | 24 | [37](derivations.md#l-24-24) | [72](derivations.md#u-table-shapiro-2000-24-24) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 24 | 25 | [37](derivations.md#l-24-25) | [72](derivations.md#u-table-shapiro-2000-24-25) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 24 | 26 | [37](derivations.md#l-24-26) | [80](derivations.md#u-table-shapiro-2000-24-26) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 24 | 27 | [43](derivations.md#l-24-27) | [80](derivations.md#u-table-shapiro-2000-24-27) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 24 | 28 | [43](derivations.md#l-24-28) | [84](derivations.md#u-d0038) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 24 | 29 | [45](derivations.md#l-24-29) | [88](derivations.md#u-table-shapiro-2000-24-29) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 24 | 30 | [45](derivations.md#l-24-30) | [90](derivations.md#u-table-shapiro-2000-24-30) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 24 | 31 | [45](derivations.md#l-24-31) | [90](derivations.md#u-table-shapiro-2000-24-31) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 24 | 32 | [45](derivations.md#l-24-32) | [90](derivations.md#u-table-shapiro-2000-24-32) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 25 | 25 | [38](derivations.md#l-25-25) | [72](derivations.md#u-table-shapiro-2000-25-25) | no | [antoniano-gitler-1984](sources.md#antoniano-gitler-1984) + [shapiro-2000](sources.md#shapiro-2000) | [shapiro-2000](sources.md#shapiro-2000) |
+| 25 | 26 | [38](derivations.md#l-25-26) | [80](derivations.md#u-table-shapiro-2000-25-26) | no | [antoniano-gitler-1984](sources.md#antoniano-gitler-1984) + [shapiro-2000](sources.md#shapiro-2000) | [shapiro-2000](sources.md#shapiro-2000) |
+| 25 | 27 | [45](derivations.md#l-25-27) | [80](derivations.md#u-table-shapiro-2000-25-27) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 25 | 28 | [45](derivations.md#l-25-28) | [88](derivations.md#u-table-shapiro-2000-25-28) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 25 | 29 | [45](derivations.md#l-25-29) | [94](derivations.md#u-table-shapiro-2000-25-29) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 25 | 30 | [45](derivations.md#l-25-30) | [94](derivations.md#u-d0042) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 25 | 31 | [45](derivations.md#l-25-31) | [96](derivations.md#u-table-shapiro-2000-25-31) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 25 | 32 | [45](derivations.md#l-25-32) | [96](derivations.md#u-table-shapiro-2000-25-32) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 26 | 26 | [39](derivations.md#l-26-26) | [80](derivations.md#u-table-shapiro-2000-26-26) | no | [antoniano-gitler-1984](sources.md#antoniano-gitler-1984) + [shapiro-2000](sources.md#shapiro-2000) | [shapiro-2000](sources.md#shapiro-2000) |
+| 26 | 27 | [45](derivations.md#l-26-27) | [80](derivations.md#u-table-shapiro-2000-26-27) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 26 | 28 | [45](derivations.md#l-26-28) | [89](derivations.md#u-table-shapiro-2000-26-28) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 26 | 29 | [45](derivations.md#l-26-29) | [94](derivations.md#u-table-shapiro-2000-26-29) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 26 | 30 | [45](derivations.md#l-26-30) | [94](derivations.md#u-d0043) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) + [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 26 | 31 | [45](derivations.md#l-26-31) | [96](derivations.md#u-table-shapiro-2000-26-31) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 26 | 32 | [45](derivations.md#l-26-32) | [96](derivations.md#u-table-shapiro-2000-26-32) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 27 | 27 | [45](derivations.md#l-27-27) | [89](derivations.md#u-table-shapiro-2000-27-27) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 27 | 28 | [45](derivations.md#l-27-28) | [89](derivations.md#u-table-shapiro-2000-27-28) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 27 | 29 | [45](derivations.md#l-27-29) | [96](derivations.md#u-table-shapiro-2000-27-29) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 27 | 30 | [45](derivations.md#l-27-30) | [96](derivations.md#u-table-shapiro-2000-27-30) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 27 | 31 | [45](derivations.md#l-27-31) | [96](derivations.md#u-table-shapiro-2000-27-31) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 27 | 32 | [45](derivations.md#l-27-32) | [96](derivations.md#u-table-shapiro-2000-27-32) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 28 | 28 | [45](derivations.md#l-28-28) | [96](derivations.md#u-table-shapiro-2000-28-28) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 28 | 29 | [45](derivations.md#l-28-29) | [96](derivations.md#u-table-shapiro-2000-28-29) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 28 | 30 | [45](derivations.md#l-28-30) | [96](derivations.md#u-table-shapiro-2000-28-30) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 28 | 31 | [45](derivations.md#l-28-31) | [96](derivations.md#u-table-shapiro-2000-28-31) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 28 | 32 | [45](derivations.md#l-28-32) | [96](derivations.md#u-table-shapiro-2000-28-32) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 29 | 29 | [45](derivations.md#l-29-29) | [96](derivations.md#u-table-shapiro-2000-29-29) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 29 | 30 | [45](derivations.md#l-29-30) | [96](derivations.md#u-table-shapiro-2000-29-30) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 29 | 31 | [47](derivations.md#l-29-31) | [96](derivations.md#u-table-shapiro-2000-29-31) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 29 | 32 | [47](derivations.md#l-29-32) | [96](derivations.md#u-table-shapiro-2000-29-32) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 30 | 30 | [45](derivations.md#l-30-30) | [96](derivations.md#u-table-shapiro-2000-30-30) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 30 | 31 | [47](derivations.md#l-30-31) | [96](derivations.md#u-table-shapiro-2000-30-31) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 30 | 32 | [47](derivations.md#l-30-32) | [96](derivations.md#u-table-shapiro-2000-30-32) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) |
+| 31 | 31 | [47](derivations.md#l-31-31) | [114](derivations.md#u-d0044) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) + [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 31 | 32 | [47](derivations.md#l-31-32) | [114](derivations.md#u-d0045) | no | [dugger-isaksen-2008](sources.md#dugger-isaksen-2008) | [shapiro-2000](sources.md#shapiro-2000) + [smith-yiu-1992](sources.md#smith-yiu-1992) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |
+| 32 | 32 | [48](derivations.md#l-32-32) | [114](derivations.md#u-d0046) | no | [antoniano-gitler-1984](sources.md#antoniano-gitler-1984) + [shapiro-2000](sources.md#shapiro-2000) | [shapiro-2000](sources.md#shapiro-2000) + [zhang-zhu-2026](sources.md#zhang-zhu-2026) |

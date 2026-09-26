@@ -1,0 +1,51 @@
+[
+  {
+    "source_id": "smith-yiu-1992",
+    "url": "https://boletin.math.org.mx/pdf/2/37/BSMM%282%29.37.479-495.pdf",
+    "access_date": "2026-09-26",
+    "sha256": "f298da70a54d178e84e87694c325d3f8e3b56608f1627ac0a9648cc161e3f223",
+    "bytes": 326484
+  },
+  {
+    "source_id": "shapiro-2000",
+    "url": "https://u.osu.edu/shapiro.6/files/2018/02/book3-2caati2.pdf",
+    "access_date": "2026-09-26",
+    "sha256": "5a110b26244792b1a078f64e7c8b7e3948d889d3b44ec5932aef61163352e12b",
+    "bytes": 1634015
+  },
+  {
+    "source_id": "dugger-isaksen-2007",
+    "url": "https://annals.math.princeton.edu/wp-content/uploads/annals-v165-n3-p05.pdf",
+    "access_date": "2026-09-26",
+    "sha256": "3a81fe7050c87ccdeb39971e075d1de9db5718a3b5886b4894bb6e431792be84",
+    "bytes": 311639
+  },
+  {
+    "source_id": "dugger-isaksen-2008",
+    "url": "https://pages.uoregon.edu/ddugger/etdq.pdf",
+    "access_date": "2026-09-26",
+    "sha256": "4eb05b3c18bb0388d78a5be3f594efa12ace300300352f63fbadf23d9ba17e83",
+    "bytes": 344115
+  },
+  {
+    "source_id": "xie-2014",
+    "url": "https://www.maths.tcd.ie/EMIS/journals/DMJDMV/vol-19/06.pdf",
+    "access_date": "2026-09-26",
+    "sha256": "ac28224ef145c50d8e3aa6bbe5dc19b968602a3cd535903a96108d0bd6e6444e",
+    "bytes": 211746
+  },
+  {
+    "source_id": "antoniano-gitler-1984",
+    "url": "https://www.boletin.math.org.mx/pdf/2/29/BSMM%282%29.29.5-9.pdf",
+    "access_date": "2026-09-26",
+    "sha256": "252e8d771a97b7611fcb1e008a48eabf361bb114b4a9e9e8e12030e25ddb23f5",
+    "bytes": 441109
+  },
+  {
+    "source_id": "zhang-zhu-2026",
+    "url": "https://arxiv.org/pdf/2605.00590v2",
+    "access_date": "2026-09-26",
+    "sha256": "e379912c792864a7074f506450f80d0deca7c825978d9d2953146939fa4c4775",
+    "bytes": 520587
+  }
+]

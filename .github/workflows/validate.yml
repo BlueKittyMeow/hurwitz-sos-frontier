@@ -1,0 +1,17 @@
+name: Validate public frontier
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: python scripts/validate.py
+      - run: python scripts/verify_zhang_zhu.py
+      - run: python scripts/independent_check.py
+      - run: python scripts/check_later_families.py
+      - run: python scripts/generate.py --check
+      - run: python -m unittest discover -s tests -v

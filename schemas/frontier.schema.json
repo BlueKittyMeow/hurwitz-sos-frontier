@@ -1,0 +1,122 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "properties": {
+      "field": {
+        "const": "C"
+      },
+      "lower_kind": {
+        "type": "string",
+        "minLength": 1
+      },
+      "upper_kind": {
+        "type": "string",
+        "minLength": 1
+      },
+      "lower_status": {
+        "type": "string",
+        "minLength": 1
+      },
+      "upper_status": {
+        "type": "string",
+        "minLength": 1
+      },
+      "lower_direct_or_derived": {
+        "enum": [
+          "direct",
+          "derived"
+        ]
+      },
+      "upper_direct_or_derived": {
+        "enum": [
+          "direct",
+          "derived"
+        ]
+      },
+      "last_checked_utc": {
+        "type": "string",
+        "format": "date-time"
+      },
+      "audit_status": {
+        "enum": [
+          "audited",
+          "unresolved"
+        ]
+      },
+      "notes": {
+        "type": "string",
+        "minLength": 1
+      },
+      "r": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "s": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "lower": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "upper": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "exact": {
+        "type": "boolean"
+      },
+      "lower_source_ids": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        },
+        "minItems": 1,
+        "uniqueItems": true
+      },
+      "upper_source_ids": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        },
+        "minItems": 1,
+        "uniqueItems": true
+      },
+      "derivation_ids": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        },
+        "minItems": 1,
+        "uniqueItems": true
+      }
+    },
+    "required": [
+      "field",
+      "lower_kind",
+      "upper_kind",
+      "lower_status",
+      "upper_status",
+      "lower_direct_or_derived",
+      "upper_direct_or_derived",
+      "last_checked_utc",
+      "audit_status",
+      "notes",
+      "r",
+      "s",
+      "lower",
+      "upper",
+      "exact",
+      "lower_source_ids",
+      "upper_source_ids",
+      "derivation_ids"
+    ],
+    "additionalProperties": false
+  }
+}
