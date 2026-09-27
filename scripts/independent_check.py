@@ -25,6 +25,10 @@ def hopf(r,s):
   if all(math.comb(n,j)%2==0 for j in range(max(0,n-r+1),s)):
    return n
  raise AssertionError
+def rho(n):
+ t=0
+ while n%2==0:t+=1;n//=2
+ return 8*(t//4)+2**(t%4)
 color={}
 def visit(i):
  assert color.get(i)!=1,('cycle',i)
@@ -57,6 +61,12 @@ for x in ds:
    elif p['axis']=='s':assert a[0]==b[0]==r and a[1]+b[1]==s and a[1]==p['split']
    else:raise AssertionError
    assert set(x['source_ids'])==set().union(*(set(z['source_ids']) for z in inputs))
+  elif op=='published generalized doubling':
+   assert len(inputs)==1 and 'zhang-huang-2017' in x['source_ids']
+   z=inputs[0]['result'];a,b=p['oriented_input_cell'];c,d=p['oriented_output_cell'];m=p['m']
+   assert sorted((a,b))==[z['r'],z['s']] and c==a+rho(2**(m-1)) and d==2**m*b
+   assert sorted((c,d))==[r,s] and n==2**m*z['upper']
+   assert set(x['source_ids'])==set(inputs[0]['source_ids'])|{'zhang-huang-2017'}
   elif op=='scalar extension':
    tab={(z['r'],z['s']):z['upper'] for z in T[p['table']]}
    assert tab[r,s]==n and p['source_field']=='Z'

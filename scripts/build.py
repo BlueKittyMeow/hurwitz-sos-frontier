@@ -85,19 +85,32 @@ def build():
         parameters={'theorem':'zhang_zhu'})
     # Frozen derivation nodes prevent circular provenance when a bound improves.
     count=0
-    def improve(r,s,n,operation,parents,proof,parameters):
+    def improve(r,s,n,operation,parents,proof,parameters,extra_sources=()):
         nonlocal count
         if n>=upper[r,s]['result']['upper']:
             return False
         count+=1
-        ids={sid for p in parents for sid in p['source_ids']}
+        ids={sid for p in parents for sid in p['source_ids']} | set(extra_sources)
         upper[r,s]=deriv(f'U-D{count:04d}','upper',r,s,n,ids,operation,
                             'Input derivations below',proof,[p['id'] for p in parents],parameters)
         return True
-    # Close this finite window under elementary restrictions and one-input direct sums.
+    # Close this finite window under published generalized doubling, source
+    # restriction, and direct sum. Each improvement freezes its parent node.
     changed=True
     while changed:
         changed=False
+        for r,s in cells:
+            p=upper[r,s]; n=p['result']['upper']
+            for m in range(1,6):
+                q=2**m; extra=rho(2**(m-1))
+                for x,y in ((r,s),(s,r)):
+                    a,b=x+extra,q*y
+                    if max(a,b)>LIMIT: continue
+                    target=sorted((a,b))
+                    changed |= improve(*target,q*n,'published generalized doubling',[p],
+                        [f'Orient the parent as [{x},{y},{n}]. Zhang–Huang generalized doubling with m={m} gives [{a},{b},{q*n}].',
+                         'Swap source inputs to the canonical ordered cell when needed.'],
+                        {'m':m,'oriented_input_cell':[x,y],'oriented_output_cell':[a,b]},['zhang-huang-2017'])
         for r,s in reversed(cells):
             for a,b in cells:
                 if r<=a and s<=b:

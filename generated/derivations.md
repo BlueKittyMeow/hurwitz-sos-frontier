@@ -2765,60 +2765,6 @@ Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
 1. The construction table states an integer-coefficient [13,18,32] formula.
 2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
 
-## U-TABLE-shapiro-2000-13-19
-
-N_C(13,19) <= 43. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [13,19,43] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-13-20
-
-N_C(13,20) <= 44. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [13,20,44] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-13-21
-
-N_C(13,21) <= 44. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [13,21,44] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-13-22
-
-N_C(13,22) <= 44. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [13,22,44] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-13-23
-
-N_C(13,23) <= 48. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [13,23,48] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-13-24
-
-N_C(13,24) <= 48. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [13,24,48] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
 ## U-TABLE-shapiro-2000-13-25
 
 N_C(13,25) <= 48. Operation: scalar extension.
@@ -2844,51 +2790,6 @@ N_C(13,27) <= 48. Operation: scalar extension.
 Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
 
 1. The construction table states an integer-coefficient [13,27,48] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-13-28
-
-N_C(13,28) <= 58. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [13,28,58] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-13-29
-
-N_C(13,29) <= 58. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [13,29,58] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-13-30
-
-N_C(13,30) <= 58. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [13,30,58] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-13-31
-
-N_C(13,31) <= 58. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [13,31,58] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-13-32
-
-N_C(13,32) <= 58. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [13,32,58] formula.
 2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
 
 ## U-TABLE-shapiro-2000-14-17
@@ -3773,51 +3674,6 @@ Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
 1. The construction table states an integer-coefficient [20,32,64] formula.
 2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
 
-## U-TABLE-shapiro-2000-21-22
-
-N_C(21,22) <= 64. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [21,22,64] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-21-23
-
-N_C(21,23) <= 64. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [21,23,64] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-21-24
-
-N_C(21,24) <= 64. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [21,24,64] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-21-25
-
-N_C(21,25) <= 72. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [21,25,72] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-21-26
-
-N_C(21,26) <= 76. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [21,26,76] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
 ## U-TABLE-shapiro-2000-21-27
 
 N_C(21,27) <= 77. Operation: scalar extension.
@@ -3854,15 +3710,6 @@ Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
 1. The construction table states an integer-coefficient [22,25,72] formula.
 2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
 
-## U-TABLE-shapiro-2000-22-26
-
-N_C(22,26) <= 78. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [22,26,78] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
 ## U-TABLE-shapiro-2000-22-27
 
 N_C(22,27) <= 80. Operation: scalar extension.
@@ -3890,24 +3737,6 @@ Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
 1. The construction table states an integer-coefficient [22,29,80] formula.
 2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
 
-## U-TABLE-shapiro-2000-23-23
-
-N_C(23,23) <= 72. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [23,23,72] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-23-24
-
-N_C(23,24) <= 72. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [23,24,72] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
 ## U-TABLE-shapiro-2000-23-25
 
 N_C(23,25) <= 72. Operation: scalar extension.
@@ -3915,15 +3744,6 @@ N_C(23,25) <= 72. Operation: scalar extension.
 Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
 
 1. The construction table states an integer-coefficient [23,25,72] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-23-26
-
-N_C(23,26) <= 78. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [23,26,78] formula.
 2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
 
 ## U-TABLE-shapiro-2000-23-27
@@ -3944,42 +3764,6 @@ Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
 1. The construction table states an integer-coefficient [23,28,84] formula.
 2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
 
-## U-TABLE-shapiro-2000-23-29
-
-N_C(23,29) <= 88. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [23,29,88] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-23-30
-
-N_C(23,30) <= 90. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [23,30,90] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-23-31
-
-N_C(23,31) <= 90. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [23,31,90] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-23-32
-
-N_C(23,32) <= 90. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [23,32,90] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
 ## U-TABLE-shapiro-2000-24-24
 
 N_C(24,24) <= 72. Operation: scalar extension.
@@ -3998,15 +3782,6 @@ Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
 1. The construction table states an integer-coefficient [24,25,72] formula.
 2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
 
-## U-TABLE-shapiro-2000-24-26
-
-N_C(24,26) <= 80. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [24,26,80] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
 ## U-TABLE-shapiro-2000-24-27
 
 N_C(24,27) <= 80. Operation: scalar extension.
@@ -4014,15 +3789,6 @@ N_C(24,27) <= 80. Operation: scalar extension.
 Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
 
 1. The construction table states an integer-coefficient [24,27,80] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-24-29
-
-N_C(24,29) <= 88. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [24,29,88] formula.
 2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
 
 ## U-TABLE-shapiro-2000-24-30
@@ -4059,15 +3825,6 @@ N_C(25,25) <= 72. Operation: scalar extension.
 Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
 
 1. The construction table states an integer-coefficient [25,25,72] formula.
-2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-
-## U-TABLE-shapiro-2000-25-26
-
-N_C(25,26) <= 80. Operation: scalar extension.
-
-Sources: [shapiro-2000](sources.md#shapiro-2000). Appendix C table, p.292.
-
-1. The construction table states an integer-coefficient [25,26,80] formula.
 2. The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
 
 ## U-TABLE-shapiro-2000-25-27
@@ -4342,6 +4099,193 @@ Sources: [zhang-zhu-2026](sources.md#zhang-zhu-2026). Theorem 1.1, p.3; equation
 
 ## U-D0001
 
+N_C(13,24) <= 36. Operation: published generalized doubling.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-ZZ-12-12](#u-zz-12-12).
+
+1. Orient the parent as [12,12,18]. Zhang–Huang generalized doubling with m=1 gives [13,24,36].
+2. Swap source inputs to the canonical ordered cell when needed.
+
+## U-D0002
+
+N_C(25,26) <= 72. Operation: published generalized doubling.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0001](#u-d0001).
+
+1. Orient the parent as [24,13,36]. Zhang–Huang generalized doubling with m=1 gives [25,26,72].
+2. Swap source inputs to the canonical ordered cell when needed.
+
+## U-D0003
+
+N_C(24,26) <= 72. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0002](#u-d0002).
+
+1. In the [25,26,72] identity set x_25,...,x_25 and y_27,...,y_26 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [24,26,72].
+
+## U-D0004
+
+N_C(23,26) <= 72. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0003](#u-d0003).
+
+1. In the [24,26,72] identity set x_24,...,x_24 and y_27,...,y_26 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [23,26,72].
+
+## U-D0005
+
+N_C(22,26) <= 72. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0004](#u-d0004).
+
+1. In the [23,26,72] identity set x_23,...,x_23 and y_27,...,y_26 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [22,26,72].
+
+## U-D0006
+
+N_C(21,26) <= 72. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0005](#u-d0005).
+
+1. In the [22,26,72] identity set x_22,...,x_22 and y_27,...,y_26 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [21,26,72].
+
+## U-D0007
+
+N_C(13,23) <= 36. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0001](#u-d0001).
+
+1. In the [13,24,36] identity set x_14,...,x_13 and y_24,...,y_24 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [13,23,36].
+
+## U-D0008
+
+N_C(13,22) <= 36. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0007](#u-d0007).
+
+1. In the [13,23,36] identity set x_14,...,x_13 and y_23,...,y_23 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [13,22,36].
+
+## U-D0009
+
+N_C(13,21) <= 36. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0008](#u-d0008).
+
+1. In the [13,22,36] identity set x_14,...,x_13 and y_22,...,y_22 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [13,21,36].
+
+## U-D0010
+
+N_C(13,20) <= 36. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0009](#u-d0009).
+
+1. In the [13,21,36] identity set x_14,...,x_13 and y_21,...,y_21 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [13,20,36].
+
+## U-D0011
+
+N_C(13,19) <= 36. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0010](#u-d0010).
+
+1. In the [13,20,36] identity set x_14,...,x_13 and y_20,...,y_20 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [13,19,36].
+
+## U-D0012
+
+N_C(12,24) <= 36. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0001](#u-d0001).
+
+1. In the [13,24,36] identity set x_13,...,x_13 and y_25,...,y_24 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [12,24,36].
+
+## U-D0013
+
+N_C(12,23) <= 36. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0012](#u-d0012).
+
+1. In the [12,24,36] identity set x_13,...,x_12 and y_24,...,y_24 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [12,23,36].
+
+## U-D0014
+
+N_C(12,22) <= 36. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0013](#u-d0013).
+
+1. In the [12,23,36] identity set x_13,...,x_12 and y_23,...,y_23 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [12,22,36].
+
+## U-D0016
+
+N_C(11,24) <= 36. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0012](#u-d0012).
+
+1. In the [12,24,36] identity set x_12,...,x_12 and y_25,...,y_24 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [11,24,36].
+
+## U-D0017
+
+N_C(11,23) <= 36. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0016](#u-d0016).
+
+1. In the [11,24,36] identity set x_12,...,x_11 and y_24,...,y_24 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [11,23,36].
+
+## U-D0018
+
+N_C(11,22) <= 36. Operation: source restriction.
+
+Sources: [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0017](#u-d0017).
+
+1. In the [11,23,36] identity set x_12,...,x_11 and y_23,...,y_23 to zero (empty ranges do nothing).
+2. The remaining output forms are bilinear and give [11,22,36].
+
+## U-D0020
+
 N_C(11,12) <= 18. Operation: source restriction.
 
 Sources: [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
@@ -4351,40 +4295,40 @@ Inputs: [U-ZZ-12-12](#u-zz-12-12).
 1. In the [12,12,18] identity set x_12,...,x_12 and y_13,...,y_12 to zero (empty ranges do nothing).
 2. The remaining output forms are bilinear and give [11,12,18].
 
-## U-D0002
+## U-D0021
 
 N_C(11,11) <= 18. Operation: source restriction.
 
 Sources: [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-D0001](#u-d0001).
+Inputs: [U-D0020](#u-d0020).
 
 1. In the [11,12,18] identity set x_12,...,x_11 and y_12,...,y_12 to zero (empty ranges do nothing).
 2. The remaining output forms are bilinear and give [11,11,18].
 
-## U-D0003
+## U-D0022
 
 N_C(10,12) <= 18. Operation: source restriction.
 
 Sources: [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-D0001](#u-d0001).
+Inputs: [U-D0020](#u-d0020).
 
 1. In the [11,12,18] identity set x_11,...,x_11 and y_13,...,y_12 to zero (empty ranges do nothing).
 2. The remaining output forms are bilinear and give [10,12,18].
 
-## U-D0004
+## U-D0023
 
 N_C(10,11) <= 18. Operation: source restriction.
 
 Sources: [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-D0003](#u-d0003).
+Inputs: [U-D0022](#u-d0022).
 
 1. In the [10,12,18] identity set x_11,...,x_10 and y_12,...,y_12 to zero (empty ranges do nothing).
 2. The remaining output forms are bilinear and give [10,11,18].
 
-## U-D0005
+## U-D0024
 
 N_C(12,15) <= 30. Operation: direct sum.
 
@@ -4396,7 +4340,7 @@ Inputs: [U-SY-3-12](#u-sy-3-12), [U-ZZ-12-12](#u-zz-12-12).
 2. Split the s input into disjoint blocks of sizes 3 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [12,15,30].
 
-## U-D0006
+## U-D0025
 
 N_C(12,16) <= 30. Operation: direct sum.
 
@@ -4408,31 +4352,19 @@ Inputs: [U-SY-4-12](#u-sy-4-12), [U-ZZ-12-12](#u-zz-12-12).
 2. Split the s input into disjoint blocks of sizes 4 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [12,16,30].
 
-## U-D0007
+## U-D0026
 
 N_C(11,21) <= 34. Operation: direct sum.
 
 Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-11](#u-sy-9-11), [U-D0001](#u-d0001).
+Inputs: [U-SY-9-11](#u-sy-9-11), [U-D0020](#u-d0020).
 
 1. Orient the two input identities as (11, 9) and (11, 12) by swapping x and y if necessary.
 2. Split the s input into disjoint blocks of sizes 9 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [11,21,34].
 
-## U-D0008
-
-N_C(11,22) <= 36. Operation: direct sum.
-
-Sources: [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
-
-Inputs: [U-D0004](#u-d0004), [U-D0001](#u-d0001).
-
-1. Orient the two input identities as (11, 10) and (11, 12) by swapping x and y if necessary.
-2. Split the s input into disjoint blocks of sizes 10 and 12; keep the other input common.
-3. Concatenate the output forms. Adding the two identities gives [11,22,36].
-
-## U-D0009
+## U-D0027
 
 N_C(12,21) <= 34. Operation: direct sum.
 
@@ -4444,223 +4376,211 @@ Inputs: [U-SY-9-12](#u-sy-9-12), [U-ZZ-12-12](#u-zz-12-12).
 2. Split the s input into disjoint blocks of sizes 9 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [12,21,34].
 
-## U-D0010
-
-N_C(11,23) <= 36. Operation: direct sum.
-
-Sources: [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
-
-Inputs: [U-D0002](#u-d0002), [U-D0001](#u-d0001).
-
-1. Orient the two input identities as (11, 11) and (11, 12) by swapping x and y if necessary.
-2. Split the s input into disjoint blocks of sizes 11 and 12; keep the other input common.
-3. Concatenate the output forms. Adding the two identities gives [11,23,36].
-
-## U-D0011
-
-N_C(12,22) <= 36. Operation: direct sum.
-
-Sources: [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
-
-Inputs: [U-D0003](#u-d0003), [U-ZZ-12-12](#u-zz-12-12).
-
-1. Orient the two input identities as (12, 10) and (12, 12) by swapping x and y if necessary.
-2. Split the s input into disjoint blocks of sizes 10 and 12; keep the other input common.
-3. Concatenate the output forms. Adding the two identities gives [12,22,36].
-
-## U-D0012
-
-N_C(11,24) <= 36. Operation: direct sum.
-
-Sources: [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
-
-Inputs: [U-D0001](#u-d0001), [U-D0001](#u-d0001).
-
-1. Orient the two input identities as (11, 12) and (11, 12) by swapping x and y if necessary.
-2. Split the s input into disjoint blocks of sizes 12 and 12; keep the other input common.
-3. Concatenate the output forms. Adding the two identities gives [11,24,36].
-
-## U-D0013
-
-N_C(12,23) <= 36. Operation: direct sum.
-
-Sources: [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
-
-Inputs: [U-D0001](#u-d0001), [U-ZZ-12-12](#u-zz-12-12).
-
-1. Orient the two input identities as (12, 11) and (12, 12) by swapping x and y if necessary.
-2. Split the s input into disjoint blocks of sizes 11 and 12; keep the other input common.
-3. Concatenate the output forms. Adding the two identities gives [12,23,36].
-
-## U-D0014
-
-N_C(12,24) <= 36. Operation: direct sum.
-
-Sources: [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
-
-Inputs: [U-ZZ-12-12](#u-zz-12-12), [U-ZZ-12-12](#u-zz-12-12).
-
-1. Orient the two input identities as (12, 12) and (12, 12) by swapping x and y if necessary.
-2. Split the s input into disjoint blocks of sizes 12 and 12; keep the other input common.
-3. Concatenate the output forms. Adding the two identities gives [12,24,36].
-
-## U-D0015
+## U-D0028
 
 N_C(15,21) <= 46. Operation: direct sum.
 
 Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-15](#u-sy-9-15), [U-D0005](#u-d0005).
+Inputs: [U-SY-9-15](#u-sy-9-15), [U-D0024](#u-d0024).
 
 1. Orient the two input identities as (15, 9) and (15, 12) by swapping x and y if necessary.
 2. Split the s input into disjoint blocks of sizes 9 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [15,21,46].
 
-## U-D0016
+## U-D0029
 
 N_C(11,26) <= 46. Operation: direct sum.
 
 Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-D0001](#u-d0001), [U-TABLE-smith-yiu-1992-11-14](#u-table-smith-yiu-1992-11-14).
+Inputs: [U-D0020](#u-d0020), [U-TABLE-smith-yiu-1992-11-14](#u-table-smith-yiu-1992-11-14).
 
 1. Orient the two input identities as (11, 12) and (11, 14) by swapping x and y if necessary.
 2. Split the s input into disjoint blocks of sizes 12 and 14; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [11,26,46].
 
-## U-D0017
+## U-D0030
 
 N_C(12,25) <= 46. Operation: direct sum.
 
 Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-4-12](#u-sy-4-12), [U-D0009](#u-d0009).
+Inputs: [U-SY-4-12](#u-sy-4-12), [U-D0027](#u-d0027).
 
 1. Orient the two input identities as (12, 4) and (12, 21) by swapping x and y if necessary.
 2. Split the s input into disjoint blocks of sizes 4 and 21; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [12,25,46].
 
-## U-D0018
+## U-D0031
 
 N_C(16,21) <= 46. Operation: direct sum.
 
 Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-16](#u-sy-9-16), [U-D0006](#u-d0006).
+Inputs: [U-SY-9-16](#u-sy-9-16), [U-D0025](#u-d0025).
 
 1. Orient the two input identities as (16, 9) and (16, 12) by swapping x and y if necessary.
 2. Split the s input into disjoint blocks of sizes 9 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [16,21,46].
 
-## U-D0019
+## U-D0032
 
 N_C(19,21) <= 58. Operation: direct sum.
 
 Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-7-21](#u-sy-7-21), [U-D0009](#u-d0009).
+Inputs: [U-SY-7-21](#u-sy-7-21), [U-D0027](#u-d0027).
 
 1. Orient the two input identities as (7, 21) and (12, 21) by swapping x and y if necessary.
 2. Split the r input into disjoint blocks of sizes 7 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [19,21,58].
 
-## U-D0020
+## U-D0033
 
 N_C(11,30) <= 50. Operation: direct sum.
 
 Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-11](#u-sy-9-11), [U-D0007](#u-d0007).
+Inputs: [U-SY-9-11](#u-sy-9-11), [U-D0026](#u-d0026).
 
 1. Orient the two input identities as (11, 9) and (11, 21) by swapping x and y if necessary.
 2. Split the s input into disjoint blocks of sizes 9 and 21; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [11,30,50].
 
-## U-D0021
+## U-D0034
+
+N_C(13,28) <= 52. Operation: direct sum.
+
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-SY-4-13](#u-sy-4-13), [U-D0001](#u-d0001).
+
+1. Orient the two input identities as (13, 4) and (13, 24) by swapping x and y if necessary.
+2. Split the s input into disjoint blocks of sizes 4 and 24; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [13,28,52].
+
+## U-D0035
 
 N_C(20,21) <= 58. Operation: direct sum.
 
 Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-8-21](#u-sy-8-21), [U-D0009](#u-d0009).
+Inputs: [U-SY-8-21](#u-sy-8-21), [U-D0027](#u-d0027).
 
 1. Orient the two input identities as (8, 21) and (12, 21) by swapping x and y if necessary.
 2. Split the r input into disjoint blocks of sizes 8 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [20,21,58].
 
-## U-D0022
+## U-D0036
 
 N_C(11,31) <= 50. Operation: direct sum.
 
 Sources: [shapiro-2000](sources.md#shapiro-2000), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-D0002](#u-d0002), [U-TABLE-shapiro-2000-11-20](#u-table-shapiro-2000-11-20).
+Inputs: [U-D0021](#u-d0021), [U-TABLE-shapiro-2000-11-20](#u-table-shapiro-2000-11-20).
 
 1. Orient the two input identities as (11, 11) and (11, 20) by swapping x and y if necessary.
 2. Split the s input into disjoint blocks of sizes 11 and 20; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [11,31,50].
 
-## U-D0023
+## U-D0037
 
 N_C(12,30) <= 50. Operation: direct sum.
 
 Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-12](#u-sy-9-12), [U-D0009](#u-d0009).
+Inputs: [U-SY-9-12](#u-sy-9-12), [U-D0027](#u-d0027).
 
 1. Orient the two input identities as (12, 9) and (12, 21) by swapping x and y if necessary.
 2. Split the s input into disjoint blocks of sizes 9 and 21; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [12,30,50].
 
-## U-D0024
+## U-D0038
 
-N_C(21,21) <= 63. Operation: direct sum.
+N_C(13,29) <= 52. Operation: direct sum.
 
-Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-21](#u-sy-9-21), [U-D0009](#u-d0009).
+Inputs: [U-SY-5-13](#u-sy-5-13), [U-D0001](#u-d0001).
 
-1. Orient the two input identities as (9, 21) and (12, 21) by swapping x and y if necessary.
-2. Split the r input into disjoint blocks of sizes 9 and 12; keep the other input common.
-3. Concatenate the output forms. Adding the two identities gives [21,21,63].
+1. Orient the two input identities as (13, 5) and (13, 24) by swapping x and y if necessary.
+2. Split the s input into disjoint blocks of sizes 5 and 24; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [13,29,52].
 
-## U-D0025
+## U-D0039
+
+N_C(21,21) <= 60. Operation: direct sum.
+
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-SY-8-21](#u-sy-8-21), [U-D0009](#u-d0009).
+
+1. Orient the two input identities as (8, 21) and (13, 21) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 8 and 13; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [21,21,60].
+
+## U-D0040
 
 N_C(11,32) <= 50. Operation: direct sum.
 
 Sources: [shapiro-2000](sources.md#shapiro-2000), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-D0001](#u-d0001), [U-TABLE-shapiro-2000-11-20](#u-table-shapiro-2000-11-20).
+Inputs: [U-D0020](#u-d0020), [U-TABLE-shapiro-2000-11-20](#u-table-shapiro-2000-11-20).
 
 1. Orient the two input identities as (11, 12) and (11, 20) by swapping x and y if necessary.
 2. Split the s input into disjoint blocks of sizes 12 and 20; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [11,32,50].
 
-## U-D0026
+## U-D0041
 
 N_C(12,31) <= 50. Operation: direct sum.
 
 Sources: [shapiro-2000](sources.md#shapiro-2000), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-D0001](#u-d0001), [U-TABLE-shapiro-2000-12-20](#u-table-shapiro-2000-12-20).
+Inputs: [U-D0020](#u-d0020), [U-TABLE-shapiro-2000-12-20](#u-table-shapiro-2000-12-20).
 
 1. Orient the two input identities as (12, 11) and (12, 20) by swapping x and y if necessary.
 2. Split the s input into disjoint blocks of sizes 11 and 20; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [12,31,50].
 
-## U-D0027
+## U-D0042
+
+N_C(13,30) <= 52. Operation: direct sum.
+
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-SY-6-13](#u-sy-6-13), [U-D0001](#u-d0001).
+
+1. Orient the two input identities as (13, 6) and (13, 24) by swapping x and y if necessary.
+2. Split the s input into disjoint blocks of sizes 6 and 24; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [13,30,52].
+
+## U-D0043
 
 N_C(19,24) <= 60. Operation: direct sum.
 
-Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-7-24](#u-sy-7-24), [U-D0014](#u-d0014).
+Inputs: [U-SY-6-24](#u-sy-6-24), [U-D0001](#u-d0001).
 
-1. Orient the two input identities as (7, 24) and (12, 24) by swapping x and y if necessary.
-2. Split the r input into disjoint blocks of sizes 7 and 12; keep the other input common.
+1. Orient the two input identities as (6, 24) and (13, 24) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 6 and 13; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [19,24,60].
 
-## U-D0028
+## U-D0044
+
+N_C(21,22) <= 60. Operation: direct sum.
+
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-SY-8-22](#u-sy-8-22), [U-D0008](#u-d0008).
+
+1. Orient the two input identities as (8, 22) and (13, 22) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 8 and 13; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [21,22,60].
+
+## U-D0045
 
 N_C(12,32) <= 50. Operation: direct sum.
 
@@ -4672,217 +4592,361 @@ Inputs: [U-ZZ-12-12](#u-zz-12-12), [U-TABLE-shapiro-2000-12-20](#u-table-shapiro
 2. Split the s input into disjoint blocks of sizes 12 and 20; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [12,32,50].
 
-## U-D0029
+## U-D0046
+
+N_C(13,31) <= 52. Operation: direct sum.
+
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-SY-7-13](#u-sy-7-13), [U-D0001](#u-d0001).
+
+1. Orient the two input identities as (13, 7) and (13, 24) by swapping x and y if necessary.
+2. Split the s input into disjoint blocks of sizes 7 and 24; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [13,31,52].
+
+## U-D0047
 
 N_C(20,24) <= 60. Operation: direct sum.
 
-Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-8-24](#u-sy-8-24), [U-D0014](#u-d0014).
+Inputs: [U-SY-7-24](#u-sy-7-24), [U-D0001](#u-d0001).
 
-1. Orient the two input identities as (8, 24) and (12, 24) by swapping x and y if necessary.
-2. Split the r input into disjoint blocks of sizes 8 and 12; keep the other input common.
+1. Orient the two input identities as (7, 24) and (13, 24) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 7 and 13; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [20,24,60].
 
-## U-D0030
+## U-D0048
+
+N_C(21,23) <= 60. Operation: direct sum.
+
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-SY-8-23](#u-sy-8-23), [U-D0007](#u-d0007).
+
+1. Orient the two input identities as (8, 23) and (13, 23) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 8 and 13; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [21,23,60].
+
+## U-D0049
 
 N_C(22,22) <= 66. Operation: direct sum.
 
-Sources: [shapiro-2000](sources.md#shapiro-2000), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-TABLE-shapiro-2000-10-22](#u-table-shapiro-2000-10-22), [U-D0011](#u-d0011).
+Inputs: [U-SY-9-22](#u-sy-9-22), [U-D0008](#u-d0008).
 
-1. Orient the two input identities as (10, 22) and (12, 22) by swapping x and y if necessary.
-2. Split the r input into disjoint blocks of sizes 10 and 12; keep the other input common.
+1. Orient the two input identities as (9, 22) and (13, 22) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 9 and 13; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [22,22,66].
 
-## U-D0031
+## U-D0050
+
+N_C(13,32) <= 52. Operation: direct sum.
+
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-SY-8-13](#u-sy-8-13), [U-D0001](#u-d0001).
+
+1. Orient the two input identities as (13, 8) and (13, 24) by swapping x and y if necessary.
+2. Split the s input into disjoint blocks of sizes 8 and 24; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [13,32,52].
+
+## U-D0051
 
 N_C(15,30) <= 62. Operation: direct sum.
 
 Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-15](#u-sy-9-15), [U-D0015](#u-d0015).
+Inputs: [U-SY-9-15](#u-sy-9-15), [U-D0028](#u-d0028).
 
 1. Orient the two input identities as (15, 9) and (15, 21) by swapping x and y if necessary.
 2. Split the s input into disjoint blocks of sizes 9 and 21; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [15,30,62].
 
-## U-D0032
+## U-D0052
 
-N_C(22,23) <= 68. Operation: direct sum.
+N_C(21,24) <= 60. Operation: direct sum.
 
-Sources: [shapiro-2000](sources.md#shapiro-2000), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-TABLE-shapiro-2000-10-23](#u-table-shapiro-2000-10-23), [U-D0013](#u-d0013).
+Inputs: [U-SY-8-24](#u-sy-8-24), [U-D0001](#u-d0001).
 
-1. Orient the two input identities as (10, 23) and (12, 23) by swapping x and y if necessary.
-2. Split the r input into disjoint blocks of sizes 10 and 12; keep the other input common.
-3. Concatenate the output forms. Adding the two identities gives [22,23,68].
+1. Orient the two input identities as (8, 24) and (13, 24) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 8 and 13; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [21,24,60].
 
-## U-D0033
+## U-D0054
+
+N_C(22,23) <= 66. Operation: direct sum.
+
+Sources: [shapiro-2000](sources.md#shapiro-2000), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-TABLE-shapiro-2000-10-22](#u-table-shapiro-2000-10-22), [U-D0008](#u-d0008).
+
+1. Orient the two input identities as (22, 10) and (22, 13) by swapping x and y if necessary.
+2. Split the s input into disjoint blocks of sizes 10 and 13; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [22,23,66].
+
+## U-D0055
 
 N_C(16,30) <= 62. Operation: direct sum.
 
 Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-16](#u-sy-9-16), [U-D0018](#u-d0018).
+Inputs: [U-SY-9-16](#u-sy-9-16), [U-D0031](#u-d0031).
 
 1. Orient the two input identities as (16, 9) and (16, 21) by swapping x and y if necessary.
 2. Split the s input into disjoint blocks of sizes 9 and 21; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [16,30,62].
 
-## U-D0034
+## U-D0056
+
+N_C(21,25) <= 70. Operation: direct sum.
+
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-D0027](#u-d0027), [U-D0009](#u-d0009).
+
+1. Orient the two input identities as (21, 12) and (21, 13) by swapping x and y if necessary.
+2. Split the s input into disjoint blocks of sizes 12 and 13; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [21,25,70].
+
+## U-D0057
 
 N_C(22,24) <= 68. Operation: direct sum.
 
-Sources: [shapiro-2000](sources.md#shapiro-2000), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-TABLE-shapiro-2000-10-24](#u-table-shapiro-2000-10-24), [U-D0014](#u-d0014).
+Inputs: [U-SY-9-24](#u-sy-9-24), [U-D0001](#u-d0001).
 
-1. Orient the two input identities as (10, 24) and (12, 24) by swapping x and y if necessary.
-2. Split the r input into disjoint blocks of sizes 10 and 12; keep the other input common.
+1. Orient the two input identities as (9, 24) and (13, 24) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 9 and 13; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [22,24,68].
 
-## U-D0035
+## U-D0058
+
+N_C(23,23) <= 68. Operation: direct sum.
+
+Sources: [shapiro-2000](sources.md#shapiro-2000), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-TABLE-shapiro-2000-10-23](#u-table-shapiro-2000-10-23), [U-D0007](#u-d0007).
+
+1. Orient the two input identities as (10, 23) and (13, 23) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 10 and 13; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [23,23,68].
+
+## U-D0059
+
+N_C(23,24) <= 68. Operation: direct sum.
+
+Sources: [shapiro-2000](sources.md#shapiro-2000), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-TABLE-shapiro-2000-10-24](#u-table-shapiro-2000-10-24), [U-D0001](#u-d0001).
+
+1. Orient the two input identities as (10, 24) and (13, 24) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 10 and 13; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [23,24,68].
+
+## U-D0060
 
 N_C(21,30) <= 82. Operation: direct sum.
 
 Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-30](#u-sy-9-30), [U-D0023](#u-d0023).
+Inputs: [U-SY-9-30](#u-sy-9-30), [U-D0037](#u-d0037).
 
 1. Orient the two input identities as (9, 30) and (12, 30) by swapping x and y if necessary.
 2. Split the r input into disjoint blocks of sizes 9 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [21,30,82].
 
-## U-D0036
+## U-D0061
 
 N_C(21,31) <= 82. Operation: direct sum.
 
 Sources: [shapiro-2000](sources.md#shapiro-2000), [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-31](#u-sy-9-31), [U-D0026](#u-d0026).
+Inputs: [U-SY-9-31](#u-sy-9-31), [U-D0041](#u-d0041).
 
 1. Orient the two input identities as (9, 31) and (12, 31) by swapping x and y if necessary.
 2. Split the r input into disjoint blocks of sizes 9 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [21,31,82].
 
-## U-D0037
+## U-D0062
 
 N_C(22,30) <= 82. Operation: direct sum.
 
 Sources: [shapiro-2000](sources.md#shapiro-2000), [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-TABLE-shapiro-2000-10-30](#u-table-shapiro-2000-10-30), [U-D0023](#u-d0023).
+Inputs: [U-TABLE-shapiro-2000-10-30](#u-table-shapiro-2000-10-30), [U-D0037](#u-d0037).
 
 1. Orient the two input identities as (10, 30) and (12, 30) by swapping x and y if necessary.
 2. Split the r input into disjoint blocks of sizes 10 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [22,30,82].
 
-## U-D0038
+## U-D0063
+
+N_C(23,29) <= 84. Operation: direct sum.
+
+Sources: [shapiro-2000](sources.md#shapiro-2000), [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-TABLE-shapiro-2000-10-29](#u-table-shapiro-2000-10-29), [U-D0038](#u-d0038).
+
+1. Orient the two input identities as (10, 29) and (13, 29) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 10 and 13; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [23,29,84].
+
+## U-D0064
 
 N_C(24,28) <= 84. Operation: direct sum.
 
-Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-8-24](#u-sy-8-24), [U-D0029](#u-d0029).
+Inputs: [U-SY-7-24](#u-sy-7-24), [U-D0052](#u-d0052).
 
-1. Orient the two input identities as (24, 8) and (24, 20) by swapping x and y if necessary.
-2. Split the s input into disjoint blocks of sizes 8 and 20; keep the other input common.
+1. Orient the two input identities as (24, 7) and (24, 21) by swapping x and y if necessary.
+2. Split the s input into disjoint blocks of sizes 7 and 21; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [24,28,84].
 
-## U-D0039
+## U-D0065
 
 N_C(21,32) <= 82. Operation: direct sum.
 
 Sources: [shapiro-2000](sources.md#shapiro-2000), [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-32](#u-sy-9-32), [U-D0028](#u-d0028).
+Inputs: [U-SY-9-32](#u-sy-9-32), [U-D0045](#u-d0045).
 
 1. Orient the two input identities as (9, 32) and (12, 32) by swapping x and y if necessary.
 2. Split the r input into disjoint blocks of sizes 9 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [21,32,82].
 
-## U-D0040
+## U-D0066
 
 N_C(22,31) <= 82. Operation: direct sum.
 
 Sources: [shapiro-2000](sources.md#shapiro-2000), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-TABLE-shapiro-2000-10-31](#u-table-shapiro-2000-10-31), [U-D0026](#u-d0026).
+Inputs: [U-TABLE-shapiro-2000-10-31](#u-table-shapiro-2000-10-31), [U-D0041](#u-d0041).
 
 1. Orient the two input identities as (10, 31) and (12, 31) by swapping x and y if necessary.
 2. Split the r input into disjoint blocks of sizes 10 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [22,31,82].
 
-## U-D0041
+## U-D0067
+
+N_C(23,30) <= 84. Operation: direct sum.
+
+Sources: [shapiro-2000](sources.md#shapiro-2000), [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-TABLE-shapiro-2000-10-30](#u-table-shapiro-2000-10-30), [U-D0042](#u-d0042).
+
+1. Orient the two input identities as (10, 30) and (13, 30) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 10 and 13; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [23,30,84].
+
+## U-D0068
+
+N_C(24,29) <= 84. Operation: direct sum.
+
+Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-SY-8-24](#u-sy-8-24), [U-D0052](#u-d0052).
+
+1. Orient the two input identities as (24, 8) and (24, 21) by swapping x and y if necessary.
+2. Split the s input into disjoint blocks of sizes 8 and 21; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [24,29,84].
+
+## U-D0069
 
 N_C(22,32) <= 82. Operation: direct sum.
 
 Sources: [shapiro-2000](sources.md#shapiro-2000), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-TABLE-shapiro-2000-10-32](#u-table-shapiro-2000-10-32), [U-D0028](#u-d0028).
+Inputs: [U-TABLE-shapiro-2000-10-32](#u-table-shapiro-2000-10-32), [U-D0045](#u-d0045).
 
 1. Orient the two input identities as (10, 32) and (12, 32) by swapping x and y if necessary.
 2. Split the r input into disjoint blocks of sizes 10 and 12; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [22,32,82].
 
-## U-D0042
+## U-D0070
+
+N_C(23,31) <= 84. Operation: direct sum.
+
+Sources: [shapiro-2000](sources.md#shapiro-2000), [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-TABLE-shapiro-2000-10-31](#u-table-shapiro-2000-10-31), [U-D0046](#u-d0046).
+
+1. Orient the two input identities as (10, 31) and (13, 31) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 10 and 13; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [23,31,84].
+
+## U-D0071
+
+N_C(23,32) <= 84. Operation: direct sum.
+
+Sources: [shapiro-2000](sources.md#shapiro-2000), [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-huang-2017](sources.md#zhang-huang-2017), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
+
+Inputs: [U-TABLE-shapiro-2000-10-32](#u-table-shapiro-2000-10-32), [U-D0050](#u-d0050).
+
+1. Orient the two input identities as (10, 32) and (13, 32) by swapping x and y if necessary.
+2. Split the r input into disjoint blocks of sizes 10 and 13; keep the other input common.
+3. Concatenate the output forms. Adding the two identities gives [23,32,84].
+
+## U-D0072
 
 N_C(25,30) <= 94. Operation: direct sum.
 
 Sources: [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-30](#u-sy-9-30), [U-D0033](#u-d0033).
+Inputs: [U-SY-9-30](#u-sy-9-30), [U-D0055](#u-d0055).
 
 1. Orient the two input identities as (9, 30) and (16, 30) by swapping x and y if necessary.
 2. Split the r input into disjoint blocks of sizes 9 and 16; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [25,30,94].
 
-## U-D0043
+## U-D0073
 
 N_C(26,30) <= 94. Operation: direct sum.
 
 Sources: [shapiro-2000](sources.md#shapiro-2000), [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-TABLE-shapiro-2000-10-30](#u-table-shapiro-2000-10-30), [U-D0033](#u-d0033).
+Inputs: [U-TABLE-shapiro-2000-10-30](#u-table-shapiro-2000-10-30), [U-D0055](#u-d0055).
 
 1. Orient the two input identities as (10, 30) and (16, 30) by swapping x and y if necessary.
 2. Split the r input into disjoint blocks of sizes 10 and 16; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [26,30,94].
 
-## U-D0044
+## U-D0074
 
 N_C(31,31) <= 114. Operation: direct sum.
 
 Sources: [shapiro-2000](sources.md#shapiro-2000), [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-31](#u-sy-9-31), [U-D0040](#u-d0040).
+Inputs: [U-SY-9-31](#u-sy-9-31), [U-D0066](#u-d0066).
 
 1. Orient the two input identities as (9, 31) and (22, 31) by swapping x and y if necessary.
 2. Split the r input into disjoint blocks of sizes 9 and 22; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [31,31,114].
 
-## U-D0045
+## U-D0075
 
 N_C(31,32) <= 114. Operation: direct sum.
 
 Sources: [shapiro-2000](sources.md#shapiro-2000), [smith-yiu-1992](sources.md#smith-yiu-1992), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-SY-9-32](#u-sy-9-32), [U-D0041](#u-d0041).
+Inputs: [U-SY-9-32](#u-sy-9-32), [U-D0069](#u-d0069).
 
 1. Orient the two input identities as (9, 32) and (22, 32) by swapping x and y if necessary.
 2. Split the r input into disjoint blocks of sizes 9 and 22; keep the other input common.
 3. Concatenate the output forms. Adding the two identities gives [31,32,114].
 
-## U-D0046
+## U-D0076
 
 N_C(32,32) <= 114. Operation: direct sum.
 
 Sources: [shapiro-2000](sources.md#shapiro-2000), [zhang-zhu-2026](sources.md#zhang-zhu-2026). Input derivations below.
 
-Inputs: [U-TABLE-shapiro-2000-10-32](#u-table-shapiro-2000-10-32), [U-D0041](#u-d0041).
+Inputs: [U-TABLE-shapiro-2000-10-32](#u-table-shapiro-2000-10-32), [U-D0069](#u-d0069).
 
 1. Orient the two input identities as (10, 32) and (22, 32) by swapping x and y if necessary.
 2. Split the r input into disjoint blocks of sizes 10 and 22; keep the other input common.

@@ -308,10 +308,10 @@ sources:
   - https://arxiv.org/abs/1705.04913
   publication_status: peer-reviewed journal
   locators:
-  - Main doubling theorem
+  - Main doubling theorem; [r,s,n] to [r+rho(2^(m-1)),2^m s,2^m n]
   access_date: '2026-09-26'
   audit_date: '2026-09-26'
-  role: freshness comparison
+  role: numerical authority
   interpretation_notes:
   - From [r,s,n] obtains [r+rho(2^(m-1)),2^m s,2^m n]; not an unrestricted tensor-product rule.
 - id: rossman-zhu-2026

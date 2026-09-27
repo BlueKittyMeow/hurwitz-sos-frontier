@@ -2,6 +2,10 @@
 
 Public, source-cited lower bounds, upper bounds, and exact values for bilinear sums-of-squares formulas over **C**.
 
+The [post-077 public construction reconciliation](audits/POST077_PUBLIC_CLOSURE.md)
+records the published generalized-doubling closure added on main after the
+initial release.
+
 **Initial snapshot: 26 September 2026.** The canonical ledger covers all 528 pairs with `1 <= r <= s <= 32`. It uses inspected public theorems and construction tables, together with explicit elementary deductions. It is a public literature index, not an original-results repository. “Frontier” means the strongest bounds found in the audited sources and stated deductions; the [known gaps](audits/KNOWN_GAPS.md) remain part of this release.
 
 ## Definition and field convention

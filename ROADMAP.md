@@ -4,6 +4,14 @@ This file records follow-up work for the public **Hurwitz SOS Frontier** after t
 
 The release itself remains immutable. Corrections and coverage improvements belong in later commits/releases with explicit provenance.
 
+## Published construction closure on main
+
+The [post-077 public reconciliation](audits/POST077_PUBLIC_CLOSURE.md) adds
+Zhang–Huang generalized doubling to the builder's certified operation graph.
+It changes 29 public upper rows, including two cells where the private sweep
+has a stronger witness. Source restriction, symmetry and direct sum remain
+covered. `v0.1.0` stays frozen; no new release or tag is part of this pass.
+
 ## First-pass post-release audit
 
 A separate spot audit of `v0.1.0` checked the repository architecture, selected numerical rows, derivation chains, independent-review machinery, release/tag integrity, and CI state.

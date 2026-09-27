@@ -5581,120 +5581,6 @@ derivations:
     theorem: table_construction
     table: shapiro_2000_upper
     source_field: Z
-- id: U-TABLE-shapiro-2000-13-19
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 13
-    s: 19
-    upper: 43
-  proof:
-  - The construction table states an integer-coefficient [13,19,43] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-13-20
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 13
-    s: 20
-    upper: 44
-  proof:
-  - The construction table states an integer-coefficient [13,20,44] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-13-21
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 13
-    s: 21
-    upper: 44
-  proof:
-  - The construction table states an integer-coefficient [13,21,44] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-13-22
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 13
-    s: 22
-    upper: 44
-  proof:
-  - The construction table states an integer-coefficient [13,22,44] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-13-23
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 13
-    s: 23
-    upper: 48
-  proof:
-  - The construction table states an integer-coefficient [13,23,48] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-13-24
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 13
-    s: 24
-    upper: 48
-  proof:
-  - The construction table states an integer-coefficient [13,24,48] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
 - id: U-TABLE-shapiro-2000-13-25
   side: upper
   source_ids:
@@ -5747,101 +5633,6 @@ derivations:
     upper: 48
   proof:
   - The construction table states an integer-coefficient [13,27,48] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-13-28
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 13
-    s: 28
-    upper: 58
-  proof:
-  - The construction table states an integer-coefficient [13,28,58] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-13-29
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 13
-    s: 29
-    upper: 58
-  proof:
-  - The construction table states an integer-coefficient [13,29,58] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-13-30
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 13
-    s: 30
-    upper: 58
-  proof:
-  - The construction table states an integer-coefficient [13,30,58] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-13-31
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 13
-    s: 31
-    upper: 58
-  proof:
-  - The construction table states an integer-coefficient [13,31,58] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-13-32
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 13
-    s: 32
-    upper: 58
-  proof:
-  - The construction table states an integer-coefficient [13,32,58] formula.
   - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
   parameters:
     theorem: table_construction
@@ -7709,101 +7500,6 @@ derivations:
     theorem: table_construction
     table: shapiro_2000_upper
     source_field: Z
-- id: U-TABLE-shapiro-2000-21-22
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 21
-    s: 22
-    upper: 64
-  proof:
-  - The construction table states an integer-coefficient [21,22,64] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-21-23
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 21
-    s: 23
-    upper: 64
-  proof:
-  - The construction table states an integer-coefficient [21,23,64] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-21-24
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 21
-    s: 24
-    upper: 64
-  proof:
-  - The construction table states an integer-coefficient [21,24,64] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-21-25
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 21
-    s: 25
-    upper: 72
-  proof:
-  - The construction table states an integer-coefficient [21,25,72] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-21-26
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 21
-    s: 26
-    upper: 76
-  proof:
-  - The construction table states an integer-coefficient [21,26,76] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
 - id: U-TABLE-shapiro-2000-21-27
   side: upper
   source_ids:
@@ -7880,25 +7576,6 @@ derivations:
     theorem: table_construction
     table: shapiro_2000_upper
     source_field: Z
-- id: U-TABLE-shapiro-2000-22-26
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 22
-    s: 26
-    upper: 78
-  proof:
-  - The construction table states an integer-coefficient [22,26,78] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
 - id: U-TABLE-shapiro-2000-22-27
   side: upper
   source_ids:
@@ -7956,44 +7633,6 @@ derivations:
     theorem: table_construction
     table: shapiro_2000_upper
     source_field: Z
-- id: U-TABLE-shapiro-2000-23-23
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 23
-    s: 23
-    upper: 72
-  proof:
-  - The construction table states an integer-coefficient [23,23,72] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-23-24
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 23
-    s: 24
-    upper: 72
-  proof:
-  - The construction table states an integer-coefficient [23,24,72] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
 - id: U-TABLE-shapiro-2000-23-25
   side: upper
   source_ids:
@@ -8008,25 +7647,6 @@ derivations:
     upper: 72
   proof:
   - The construction table states an integer-coefficient [23,25,72] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-23-26
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 23
-    s: 26
-    upper: 78
-  proof:
-  - The construction table states an integer-coefficient [23,26,78] formula.
   - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
   parameters:
     theorem: table_construction
@@ -8070,82 +7690,6 @@ derivations:
     theorem: table_construction
     table: shapiro_2000_upper
     source_field: Z
-- id: U-TABLE-shapiro-2000-23-29
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 23
-    s: 29
-    upper: 88
-  proof:
-  - The construction table states an integer-coefficient [23,29,88] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-23-30
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 23
-    s: 30
-    upper: 90
-  proof:
-  - The construction table states an integer-coefficient [23,30,90] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-23-31
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 23
-    s: 31
-    upper: 90
-  proof:
-  - The construction table states an integer-coefficient [23,31,90] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-23-32
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 23
-    s: 32
-    upper: 90
-  proof:
-  - The construction table states an integer-coefficient [23,32,90] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
 - id: U-TABLE-shapiro-2000-24-24
   side: upper
   source_ids:
@@ -8184,25 +7728,6 @@ derivations:
     theorem: table_construction
     table: shapiro_2000_upper
     source_field: Z
-- id: U-TABLE-shapiro-2000-24-26
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 24
-    s: 26
-    upper: 80
-  proof:
-  - The construction table states an integer-coefficient [24,26,80] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
 - id: U-TABLE-shapiro-2000-24-27
   side: upper
   source_ids:
@@ -8217,25 +7742,6 @@ derivations:
     upper: 80
   proof:
   - The construction table states an integer-coefficient [24,27,80] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-24-29
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 24
-    s: 29
-    upper: 88
-  proof:
-  - The construction table states an integer-coefficient [24,29,88] formula.
   - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
   parameters:
     theorem: table_construction
@@ -8312,25 +7818,6 @@ derivations:
     upper: 72
   proof:
   - The construction table states an integer-coefficient [25,25,72] formula.
-  - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
-  parameters:
-    theorem: table_construction
-    table: shapiro_2000_upper
-    source_field: Z
-- id: U-TABLE-shapiro-2000-25-26
-  side: upper
-  source_ids:
-  - shapiro-2000
-  source_locator: Appendix C table, p.292
-  operation: scalar extension
-  inputs: []
-  result:
-    field: C
-    r: 25
-    s: 26
-    upper: 80
-  proof:
-  - The construction table states an integer-coefficient [25,26,80] formula.
   - The embedding Z -> C preserves this polynomial identity. Integer optimality is not used.
   parameters:
     theorem: table_construction
@@ -8907,6 +8394,326 @@ derivations:
 - id: U-D0001
   side: upper
   source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: published generalized doubling
+  inputs:
+  - U-ZZ-12-12
+  result:
+    field: C
+    r: 13
+    s: 24
+    upper: 36
+  proof:
+  - Orient the parent as [12,12,18]. Zhang–Huang generalized doubling with m=1 gives [13,24,36].
+  - Swap source inputs to the canonical ordered cell when needed.
+  parameters:
+    m: 1
+    oriented_input_cell:
+    - 12
+    - 12
+    oriented_output_cell:
+    - 13
+    - 24
+- id: U-D0002
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: published generalized doubling
+  inputs:
+  - U-D0001
+  result:
+    field: C
+    r: 25
+    s: 26
+    upper: 72
+  proof:
+  - Orient the parent as [24,13,36]. Zhang–Huang generalized doubling with m=1 gives [25,26,72].
+  - Swap source inputs to the canonical ordered cell when needed.
+  parameters:
+    m: 1
+    oriented_input_cell:
+    - 24
+    - 13
+    oriented_output_cell:
+    - 25
+    - 26
+- id: U-D0003
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0002
+  result:
+    field: C
+    r: 24
+    s: 26
+    upper: 72
+  proof:
+  - In the [25,26,72] identity set x_25,...,x_25 and y_27,...,y_26 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [24,26,72].
+  parameters: {}
+- id: U-D0004
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0003
+  result:
+    field: C
+    r: 23
+    s: 26
+    upper: 72
+  proof:
+  - In the [24,26,72] identity set x_24,...,x_24 and y_27,...,y_26 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [23,26,72].
+  parameters: {}
+- id: U-D0005
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0004
+  result:
+    field: C
+    r: 22
+    s: 26
+    upper: 72
+  proof:
+  - In the [23,26,72] identity set x_23,...,x_23 and y_27,...,y_26 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [22,26,72].
+  parameters: {}
+- id: U-D0006
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0005
+  result:
+    field: C
+    r: 21
+    s: 26
+    upper: 72
+  proof:
+  - In the [22,26,72] identity set x_22,...,x_22 and y_27,...,y_26 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [21,26,72].
+  parameters: {}
+- id: U-D0007
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0001
+  result:
+    field: C
+    r: 13
+    s: 23
+    upper: 36
+  proof:
+  - In the [13,24,36] identity set x_14,...,x_13 and y_24,...,y_24 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [13,23,36].
+  parameters: {}
+- id: U-D0008
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0007
+  result:
+    field: C
+    r: 13
+    s: 22
+    upper: 36
+  proof:
+  - In the [13,23,36] identity set x_14,...,x_13 and y_23,...,y_23 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [13,22,36].
+  parameters: {}
+- id: U-D0009
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0008
+  result:
+    field: C
+    r: 13
+    s: 21
+    upper: 36
+  proof:
+  - In the [13,22,36] identity set x_14,...,x_13 and y_22,...,y_22 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [13,21,36].
+  parameters: {}
+- id: U-D0010
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0009
+  result:
+    field: C
+    r: 13
+    s: 20
+    upper: 36
+  proof:
+  - In the [13,21,36] identity set x_14,...,x_13 and y_21,...,y_21 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [13,20,36].
+  parameters: {}
+- id: U-D0011
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0010
+  result:
+    field: C
+    r: 13
+    s: 19
+    upper: 36
+  proof:
+  - In the [13,20,36] identity set x_14,...,x_13 and y_20,...,y_20 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [13,19,36].
+  parameters: {}
+- id: U-D0012
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0001
+  result:
+    field: C
+    r: 12
+    s: 24
+    upper: 36
+  proof:
+  - In the [13,24,36] identity set x_13,...,x_13 and y_25,...,y_24 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [12,24,36].
+  parameters: {}
+- id: U-D0013
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0012
+  result:
+    field: C
+    r: 12
+    s: 23
+    upper: 36
+  proof:
+  - In the [12,24,36] identity set x_13,...,x_12 and y_24,...,y_24 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [12,23,36].
+  parameters: {}
+- id: U-D0014
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0013
+  result:
+    field: C
+    r: 12
+    s: 22
+    upper: 36
+  proof:
+  - In the [12,23,36] identity set x_13,...,x_12 and y_23,...,y_23 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [12,22,36].
+  parameters: {}
+- id: U-D0016
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0012
+  result:
+    field: C
+    r: 11
+    s: 24
+    upper: 36
+  proof:
+  - In the [12,24,36] identity set x_12,...,x_12 and y_25,...,y_24 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [11,24,36].
+  parameters: {}
+- id: U-D0017
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0016
+  result:
+    field: C
+    r: 11
+    s: 23
+    upper: 36
+  proof:
+  - In the [11,24,36] identity set x_12,...,x_11 and y_24,...,y_24 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [11,23,36].
+  parameters: {}
+- id: U-D0018
+  side: upper
+  source_ids:
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: source restriction
+  inputs:
+  - U-D0017
+  result:
+    field: C
+    r: 11
+    s: 22
+    upper: 36
+  proof:
+  - In the [11,23,36] identity set x_12,...,x_11 and y_23,...,y_23 to zero (empty ranges do nothing).
+  - The remaining output forms are bilinear and give [11,22,36].
+  parameters: {}
+- id: U-D0020
+  side: upper
+  source_ids:
   - zhang-zhu-2026
   source_locator: Input derivations below
   operation: source restriction
@@ -8921,14 +8728,14 @@ derivations:
   - In the [12,12,18] identity set x_12,...,x_12 and y_13,...,y_12 to zero (empty ranges do nothing).
   - The remaining output forms are bilinear and give [11,12,18].
   parameters: {}
-- id: U-D0002
+- id: U-D0021
   side: upper
   source_ids:
   - zhang-zhu-2026
   source_locator: Input derivations below
   operation: source restriction
   inputs:
-  - U-D0001
+  - U-D0020
   result:
     field: C
     r: 11
@@ -8938,14 +8745,14 @@ derivations:
   - In the [11,12,18] identity set x_12,...,x_11 and y_12,...,y_12 to zero (empty ranges do nothing).
   - The remaining output forms are bilinear and give [11,11,18].
   parameters: {}
-- id: U-D0003
+- id: U-D0022
   side: upper
   source_ids:
   - zhang-zhu-2026
   source_locator: Input derivations below
   operation: source restriction
   inputs:
-  - U-D0001
+  - U-D0020
   result:
     field: C
     r: 10
@@ -8955,14 +8762,14 @@ derivations:
   - In the [11,12,18] identity set x_11,...,x_11 and y_13,...,y_12 to zero (empty ranges do nothing).
   - The remaining output forms are bilinear and give [10,12,18].
   parameters: {}
-- id: U-D0004
+- id: U-D0023
   side: upper
   source_ids:
   - zhang-zhu-2026
   source_locator: Input derivations below
   operation: source restriction
   inputs:
-  - U-D0003
+  - U-D0022
   result:
     field: C
     r: 10
@@ -8972,7 +8779,7 @@ derivations:
   - In the [10,12,18] identity set x_11,...,x_10 and y_12,...,y_12 to zero (empty ranges do nothing).
   - The remaining output forms are bilinear and give [10,11,18].
   parameters: {}
-- id: U-D0005
+- id: U-D0024
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -8999,7 +8806,7 @@ derivations:
       - 3
     - - 12
       - 12
-- id: U-D0006
+- id: U-D0025
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9026,7 +8833,7 @@ derivations:
       - 4
     - - 12
       - 12
-- id: U-D0007
+- id: U-D0026
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9035,7 +8842,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-9-11
-  - U-D0001
+  - U-D0020
   result:
     field: C
     r: 11
@@ -9053,33 +8860,7 @@ derivations:
       - 9
     - - 11
       - 12
-- id: U-D0008
-  side: upper
-  source_ids:
-  - zhang-zhu-2026
-  source_locator: Input derivations below
-  operation: direct sum
-  inputs:
-  - U-D0004
-  - U-D0001
-  result:
-    field: C
-    r: 11
-    s: 22
-    upper: 36
-  proof:
-  - Orient the two input identities as (11, 10) and (11, 12) by swapping x and y if necessary.
-  - Split the s input into disjoint blocks of sizes 10 and 12; keep the other input common.
-  - Concatenate the output forms. Adding the two identities gives [11,22,36].
-  parameters:
-    axis: s
-    split: 10
-    oriented_input_cells:
-    - - 11
-      - 10
-    - - 11
-      - 12
-- id: U-D0009
+- id: U-D0027
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9106,137 +8887,7 @@ derivations:
       - 9
     - - 12
       - 12
-- id: U-D0010
-  side: upper
-  source_ids:
-  - zhang-zhu-2026
-  source_locator: Input derivations below
-  operation: direct sum
-  inputs:
-  - U-D0002
-  - U-D0001
-  result:
-    field: C
-    r: 11
-    s: 23
-    upper: 36
-  proof:
-  - Orient the two input identities as (11, 11) and (11, 12) by swapping x and y if necessary.
-  - Split the s input into disjoint blocks of sizes 11 and 12; keep the other input common.
-  - Concatenate the output forms. Adding the two identities gives [11,23,36].
-  parameters:
-    axis: s
-    split: 11
-    oriented_input_cells:
-    - - 11
-      - 11
-    - - 11
-      - 12
-- id: U-D0011
-  side: upper
-  source_ids:
-  - zhang-zhu-2026
-  source_locator: Input derivations below
-  operation: direct sum
-  inputs:
-  - U-D0003
-  - U-ZZ-12-12
-  result:
-    field: C
-    r: 12
-    s: 22
-    upper: 36
-  proof:
-  - Orient the two input identities as (12, 10) and (12, 12) by swapping x and y if necessary.
-  - Split the s input into disjoint blocks of sizes 10 and 12; keep the other input common.
-  - Concatenate the output forms. Adding the two identities gives [12,22,36].
-  parameters:
-    axis: s
-    split: 10
-    oriented_input_cells:
-    - - 12
-      - 10
-    - - 12
-      - 12
-- id: U-D0012
-  side: upper
-  source_ids:
-  - zhang-zhu-2026
-  source_locator: Input derivations below
-  operation: direct sum
-  inputs:
-  - U-D0001
-  - U-D0001
-  result:
-    field: C
-    r: 11
-    s: 24
-    upper: 36
-  proof:
-  - Orient the two input identities as (11, 12) and (11, 12) by swapping x and y if necessary.
-  - Split the s input into disjoint blocks of sizes 12 and 12; keep the other input common.
-  - Concatenate the output forms. Adding the two identities gives [11,24,36].
-  parameters:
-    axis: s
-    split: 12
-    oriented_input_cells:
-    - - 11
-      - 12
-    - - 11
-      - 12
-- id: U-D0013
-  side: upper
-  source_ids:
-  - zhang-zhu-2026
-  source_locator: Input derivations below
-  operation: direct sum
-  inputs:
-  - U-D0001
-  - U-ZZ-12-12
-  result:
-    field: C
-    r: 12
-    s: 23
-    upper: 36
-  proof:
-  - Orient the two input identities as (12, 11) and (12, 12) by swapping x and y if necessary.
-  - Split the s input into disjoint blocks of sizes 11 and 12; keep the other input common.
-  - Concatenate the output forms. Adding the two identities gives [12,23,36].
-  parameters:
-    axis: s
-    split: 11
-    oriented_input_cells:
-    - - 12
-      - 11
-    - - 12
-      - 12
-- id: U-D0014
-  side: upper
-  source_ids:
-  - zhang-zhu-2026
-  source_locator: Input derivations below
-  operation: direct sum
-  inputs:
-  - U-ZZ-12-12
-  - U-ZZ-12-12
-  result:
-    field: C
-    r: 12
-    s: 24
-    upper: 36
-  proof:
-  - Orient the two input identities as (12, 12) and (12, 12) by swapping x and y if necessary.
-  - Split the s input into disjoint blocks of sizes 12 and 12; keep the other input common.
-  - Concatenate the output forms. Adding the two identities gives [12,24,36].
-  parameters:
-    axis: s
-    split: 12
-    oriented_input_cells:
-    - - 12
-      - 12
-    - - 12
-      - 12
-- id: U-D0015
+- id: U-D0028
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9245,7 +8896,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-9-15
-  - U-D0005
+  - U-D0024
   result:
     field: C
     r: 15
@@ -9263,7 +8914,7 @@ derivations:
       - 9
     - - 15
       - 12
-- id: U-D0016
+- id: U-D0029
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9271,7 +8922,7 @@ derivations:
   source_locator: Input derivations below
   operation: direct sum
   inputs:
-  - U-D0001
+  - U-D0020
   - U-TABLE-smith-yiu-1992-11-14
   result:
     field: C
@@ -9290,7 +8941,7 @@ derivations:
       - 12
     - - 11
       - 14
-- id: U-D0017
+- id: U-D0030
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9299,7 +8950,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-4-12
-  - U-D0009
+  - U-D0027
   result:
     field: C
     r: 12
@@ -9317,7 +8968,7 @@ derivations:
       - 4
     - - 12
       - 21
-- id: U-D0018
+- id: U-D0031
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9326,7 +8977,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-9-16
-  - U-D0006
+  - U-D0025
   result:
     field: C
     r: 16
@@ -9344,7 +8995,7 @@ derivations:
       - 9
     - - 16
       - 12
-- id: U-D0019
+- id: U-D0032
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9353,7 +9004,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-7-21
-  - U-D0009
+  - U-D0027
   result:
     field: C
     r: 19
@@ -9371,7 +9022,7 @@ derivations:
       - 21
     - - 12
       - 21
-- id: U-D0020
+- id: U-D0033
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9380,7 +9031,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-9-11
-  - U-D0007
+  - U-D0026
   result:
     field: C
     r: 11
@@ -9398,7 +9049,35 @@ derivations:
       - 9
     - - 11
       - 21
-- id: U-D0021
+- id: U-D0034
+  side: upper
+  source_ids:
+  - smith-yiu-1992
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-SY-4-13
+  - U-D0001
+  result:
+    field: C
+    r: 13
+    s: 28
+    upper: 52
+  proof:
+  - Orient the two input identities as (13, 4) and (13, 24) by swapping x and y if necessary.
+  - Split the s input into disjoint blocks of sizes 4 and 24; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [13,28,52].
+  parameters:
+    axis: s
+    split: 4
+    oriented_input_cells:
+    - - 13
+      - 4
+    - - 13
+      - 24
+- id: U-D0035
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9407,7 +9086,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-8-21
-  - U-D0009
+  - U-D0027
   result:
     field: C
     r: 20
@@ -9425,7 +9104,7 @@ derivations:
       - 21
     - - 12
       - 21
-- id: U-D0022
+- id: U-D0036
   side: upper
   source_ids:
   - shapiro-2000
@@ -9433,7 +9112,7 @@ derivations:
   source_locator: Input derivations below
   operation: direct sum
   inputs:
-  - U-D0002
+  - U-D0021
   - U-TABLE-shapiro-2000-11-20
   result:
     field: C
@@ -9452,7 +9131,7 @@ derivations:
       - 11
     - - 11
       - 20
-- id: U-D0023
+- id: U-D0037
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9461,7 +9140,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-9-12
-  - U-D0009
+  - U-D0027
   result:
     field: C
     r: 12
@@ -9479,34 +9158,63 @@ derivations:
       - 9
     - - 12
       - 21
-- id: U-D0024
+- id: U-D0038
   side: upper
   source_ids:
   - smith-yiu-1992
+  - zhang-huang-2017
   - zhang-zhu-2026
   source_locator: Input derivations below
   operation: direct sum
   inputs:
-  - U-SY-9-21
+  - U-SY-5-13
+  - U-D0001
+  result:
+    field: C
+    r: 13
+    s: 29
+    upper: 52
+  proof:
+  - Orient the two input identities as (13, 5) and (13, 24) by swapping x and y if necessary.
+  - Split the s input into disjoint blocks of sizes 5 and 24; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [13,29,52].
+  parameters:
+    axis: s
+    split: 5
+    oriented_input_cells:
+    - - 13
+      - 5
+    - - 13
+      - 24
+- id: U-D0039
+  side: upper
+  source_ids:
+  - smith-yiu-1992
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-SY-8-21
   - U-D0009
   result:
     field: C
     r: 21
     s: 21
-    upper: 63
+    upper: 60
   proof:
-  - Orient the two input identities as (9, 21) and (12, 21) by swapping x and y if necessary.
-  - Split the r input into disjoint blocks of sizes 9 and 12; keep the other input common.
-  - Concatenate the output forms. Adding the two identities gives [21,21,63].
+  - Orient the two input identities as (8, 21) and (13, 21) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 8 and 13; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [21,21,60].
   parameters:
     axis: r
-    split: 9
+    split: 8
     oriented_input_cells:
-    - - 9
+    - - 8
       - 21
-    - - 12
+    - - 13
       - 21
-- id: U-D0025
+- id: U-D0040
   side: upper
   source_ids:
   - shapiro-2000
@@ -9514,7 +9222,7 @@ derivations:
   source_locator: Input derivations below
   operation: direct sum
   inputs:
-  - U-D0001
+  - U-D0020
   - U-TABLE-shapiro-2000-11-20
   result:
     field: C
@@ -9533,7 +9241,7 @@ derivations:
       - 12
     - - 11
       - 20
-- id: U-D0026
+- id: U-D0041
   side: upper
   source_ids:
   - shapiro-2000
@@ -9541,7 +9249,7 @@ derivations:
   source_locator: Input derivations below
   operation: direct sum
   inputs:
-  - U-D0001
+  - U-D0020
   - U-TABLE-shapiro-2000-12-20
   result:
     field: C
@@ -9560,34 +9268,91 @@ derivations:
       - 11
     - - 12
       - 20
-- id: U-D0027
+- id: U-D0042
   side: upper
   source_ids:
   - smith-yiu-1992
+  - zhang-huang-2017
   - zhang-zhu-2026
   source_locator: Input derivations below
   operation: direct sum
   inputs:
-  - U-SY-7-24
-  - U-D0014
+  - U-SY-6-13
+  - U-D0001
+  result:
+    field: C
+    r: 13
+    s: 30
+    upper: 52
+  proof:
+  - Orient the two input identities as (13, 6) and (13, 24) by swapping x and y if necessary.
+  - Split the s input into disjoint blocks of sizes 6 and 24; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [13,30,52].
+  parameters:
+    axis: s
+    split: 6
+    oriented_input_cells:
+    - - 13
+      - 6
+    - - 13
+      - 24
+- id: U-D0043
+  side: upper
+  source_ids:
+  - smith-yiu-1992
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-SY-6-24
+  - U-D0001
   result:
     field: C
     r: 19
     s: 24
     upper: 60
   proof:
-  - Orient the two input identities as (7, 24) and (12, 24) by swapping x and y if necessary.
-  - Split the r input into disjoint blocks of sizes 7 and 12; keep the other input common.
+  - Orient the two input identities as (6, 24) and (13, 24) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 6 and 13; keep the other input common.
   - Concatenate the output forms. Adding the two identities gives [19,24,60].
   parameters:
     axis: r
-    split: 7
+    split: 6
     oriented_input_cells:
-    - - 7
+    - - 6
       - 24
-    - - 12
+    - - 13
       - 24
-- id: U-D0028
+- id: U-D0044
+  side: upper
+  source_ids:
+  - smith-yiu-1992
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-SY-8-22
+  - U-D0008
+  result:
+    field: C
+    r: 21
+    s: 22
+    upper: 60
+  proof:
+  - Orient the two input identities as (8, 22) and (13, 22) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 8 and 13; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [21,22,60].
+  parameters:
+    axis: r
+    split: 8
+    oriented_input_cells:
+    - - 8
+      - 22
+    - - 13
+      - 22
+- id: U-D0045
   side: upper
   source_ids:
   - shapiro-2000
@@ -9614,61 +9379,147 @@ derivations:
       - 12
     - - 12
       - 20
-- id: U-D0029
+- id: U-D0046
   side: upper
   source_ids:
   - smith-yiu-1992
+  - zhang-huang-2017
   - zhang-zhu-2026
   source_locator: Input derivations below
   operation: direct sum
   inputs:
-  - U-SY-8-24
-  - U-D0014
+  - U-SY-7-13
+  - U-D0001
+  result:
+    field: C
+    r: 13
+    s: 31
+    upper: 52
+  proof:
+  - Orient the two input identities as (13, 7) and (13, 24) by swapping x and y if necessary.
+  - Split the s input into disjoint blocks of sizes 7 and 24; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [13,31,52].
+  parameters:
+    axis: s
+    split: 7
+    oriented_input_cells:
+    - - 13
+      - 7
+    - - 13
+      - 24
+- id: U-D0047
+  side: upper
+  source_ids:
+  - smith-yiu-1992
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-SY-7-24
+  - U-D0001
   result:
     field: C
     r: 20
     s: 24
     upper: 60
   proof:
-  - Orient the two input identities as (8, 24) and (12, 24) by swapping x and y if necessary.
-  - Split the r input into disjoint blocks of sizes 8 and 12; keep the other input common.
+  - Orient the two input identities as (7, 24) and (13, 24) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 7 and 13; keep the other input common.
   - Concatenate the output forms. Adding the two identities gives [20,24,60].
+  parameters:
+    axis: r
+    split: 7
+    oriented_input_cells:
+    - - 7
+      - 24
+    - - 13
+      - 24
+- id: U-D0048
+  side: upper
+  source_ids:
+  - smith-yiu-1992
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-SY-8-23
+  - U-D0007
+  result:
+    field: C
+    r: 21
+    s: 23
+    upper: 60
+  proof:
+  - Orient the two input identities as (8, 23) and (13, 23) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 8 and 13; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [21,23,60].
   parameters:
     axis: r
     split: 8
     oriented_input_cells:
     - - 8
-      - 24
-    - - 12
-      - 24
-- id: U-D0030
+      - 23
+    - - 13
+      - 23
+- id: U-D0049
   side: upper
   source_ids:
-  - shapiro-2000
+  - smith-yiu-1992
+  - zhang-huang-2017
   - zhang-zhu-2026
   source_locator: Input derivations below
   operation: direct sum
   inputs:
-  - U-TABLE-shapiro-2000-10-22
-  - U-D0011
+  - U-SY-9-22
+  - U-D0008
   result:
     field: C
     r: 22
     s: 22
     upper: 66
   proof:
-  - Orient the two input identities as (10, 22) and (12, 22) by swapping x and y if necessary.
-  - Split the r input into disjoint blocks of sizes 10 and 12; keep the other input common.
+  - Orient the two input identities as (9, 22) and (13, 22) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 9 and 13; keep the other input common.
   - Concatenate the output forms. Adding the two identities gives [22,22,66].
   parameters:
     axis: r
-    split: 10
+    split: 9
     oriented_input_cells:
-    - - 10
+    - - 9
       - 22
-    - - 12
+    - - 13
       - 22
-- id: U-D0031
+- id: U-D0050
+  side: upper
+  source_ids:
+  - smith-yiu-1992
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-SY-8-13
+  - U-D0001
+  result:
+    field: C
+    r: 13
+    s: 32
+    upper: 52
+  proof:
+  - Orient the two input identities as (13, 8) and (13, 24) by swapping x and y if necessary.
+  - Split the s input into disjoint blocks of sizes 8 and 24; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [13,32,52].
+  parameters:
+    axis: s
+    split: 8
+    oriented_input_cells:
+    - - 13
+      - 8
+    - - 13
+      - 24
+- id: U-D0051
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9677,7 +9528,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-9-15
-  - U-D0015
+  - U-D0028
   result:
     field: C
     r: 15
@@ -9695,34 +9546,63 @@ derivations:
       - 9
     - - 15
       - 21
-- id: U-D0032
+- id: U-D0052
   side: upper
   source_ids:
-  - shapiro-2000
+  - smith-yiu-1992
+  - zhang-huang-2017
   - zhang-zhu-2026
   source_locator: Input derivations below
   operation: direct sum
   inputs:
-  - U-TABLE-shapiro-2000-10-23
-  - U-D0013
+  - U-SY-8-24
+  - U-D0001
+  result:
+    field: C
+    r: 21
+    s: 24
+    upper: 60
+  proof:
+  - Orient the two input identities as (8, 24) and (13, 24) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 8 and 13; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [21,24,60].
+  parameters:
+    axis: r
+    split: 8
+    oriented_input_cells:
+    - - 8
+      - 24
+    - - 13
+      - 24
+- id: U-D0054
+  side: upper
+  source_ids:
+  - shapiro-2000
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-TABLE-shapiro-2000-10-22
+  - U-D0008
   result:
     field: C
     r: 22
     s: 23
-    upper: 68
+    upper: 66
   proof:
-  - Orient the two input identities as (10, 23) and (12, 23) by swapping x and y if necessary.
-  - Split the r input into disjoint blocks of sizes 10 and 12; keep the other input common.
-  - Concatenate the output forms. Adding the two identities gives [22,23,68].
+  - Orient the two input identities as (22, 10) and (22, 13) by swapping x and y if necessary.
+  - Split the s input into disjoint blocks of sizes 10 and 13; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [22,23,66].
   parameters:
-    axis: r
+    axis: s
     split: 10
     oriented_input_cells:
-    - - 10
-      - 23
-    - - 12
-      - 23
-- id: U-D0033
+    - - 22
+      - 10
+    - - 22
+      - 13
+- id: U-D0055
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9731,7 +9611,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-9-16
-  - U-D0018
+  - U-D0031
   result:
     field: C
     r: 16
@@ -9749,34 +9629,119 @@ derivations:
       - 9
     - - 16
       - 21
-- id: U-D0034
+- id: U-D0056
   side: upper
   source_ids:
-  - shapiro-2000
+  - smith-yiu-1992
+  - zhang-huang-2017
   - zhang-zhu-2026
   source_locator: Input derivations below
   operation: direct sum
   inputs:
-  - U-TABLE-shapiro-2000-10-24
-  - U-D0014
+  - U-D0027
+  - U-D0009
+  result:
+    field: C
+    r: 21
+    s: 25
+    upper: 70
+  proof:
+  - Orient the two input identities as (21, 12) and (21, 13) by swapping x and y if necessary.
+  - Split the s input into disjoint blocks of sizes 12 and 13; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [21,25,70].
+  parameters:
+    axis: s
+    split: 12
+    oriented_input_cells:
+    - - 21
+      - 12
+    - - 21
+      - 13
+- id: U-D0057
+  side: upper
+  source_ids:
+  - smith-yiu-1992
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-SY-9-24
+  - U-D0001
   result:
     field: C
     r: 22
     s: 24
     upper: 68
   proof:
-  - Orient the two input identities as (10, 24) and (12, 24) by swapping x and y if necessary.
-  - Split the r input into disjoint blocks of sizes 10 and 12; keep the other input common.
+  - Orient the two input identities as (9, 24) and (13, 24) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 9 and 13; keep the other input common.
   - Concatenate the output forms. Adding the two identities gives [22,24,68].
+  parameters:
+    axis: r
+    split: 9
+    oriented_input_cells:
+    - - 9
+      - 24
+    - - 13
+      - 24
+- id: U-D0058
+  side: upper
+  source_ids:
+  - shapiro-2000
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-TABLE-shapiro-2000-10-23
+  - U-D0007
+  result:
+    field: C
+    r: 23
+    s: 23
+    upper: 68
+  proof:
+  - Orient the two input identities as (10, 23) and (13, 23) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 10 and 13; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [23,23,68].
+  parameters:
+    axis: r
+    split: 10
+    oriented_input_cells:
+    - - 10
+      - 23
+    - - 13
+      - 23
+- id: U-D0059
+  side: upper
+  source_ids:
+  - shapiro-2000
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-TABLE-shapiro-2000-10-24
+  - U-D0001
+  result:
+    field: C
+    r: 23
+    s: 24
+    upper: 68
+  proof:
+  - Orient the two input identities as (10, 24) and (13, 24) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 10 and 13; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [23,24,68].
   parameters:
     axis: r
     split: 10
     oriented_input_cells:
     - - 10
       - 24
-    - - 12
+    - - 13
       - 24
-- id: U-D0035
+- id: U-D0060
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9785,7 +9750,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-9-30
-  - U-D0023
+  - U-D0037
   result:
     field: C
     r: 21
@@ -9803,7 +9768,7 @@ derivations:
       - 30
     - - 12
       - 30
-- id: U-D0036
+- id: U-D0061
   side: upper
   source_ids:
   - shapiro-2000
@@ -9813,7 +9778,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-9-31
-  - U-D0026
+  - U-D0041
   result:
     field: C
     r: 21
@@ -9831,7 +9796,7 @@ derivations:
       - 31
     - - 12
       - 31
-- id: U-D0037
+- id: U-D0062
   side: upper
   source_ids:
   - shapiro-2000
@@ -9841,7 +9806,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-TABLE-shapiro-2000-10-30
-  - U-D0023
+  - U-D0037
   result:
     field: C
     r: 22
@@ -9859,34 +9824,64 @@ derivations:
       - 30
     - - 12
       - 30
-- id: U-D0038
+- id: U-D0063
   side: upper
   source_ids:
+  - shapiro-2000
   - smith-yiu-1992
+  - zhang-huang-2017
   - zhang-zhu-2026
   source_locator: Input derivations below
   operation: direct sum
   inputs:
-  - U-SY-8-24
-  - U-D0029
+  - U-TABLE-shapiro-2000-10-29
+  - U-D0038
+  result:
+    field: C
+    r: 23
+    s: 29
+    upper: 84
+  proof:
+  - Orient the two input identities as (10, 29) and (13, 29) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 10 and 13; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [23,29,84].
+  parameters:
+    axis: r
+    split: 10
+    oriented_input_cells:
+    - - 10
+      - 29
+    - - 13
+      - 29
+- id: U-D0064
+  side: upper
+  source_ids:
+  - smith-yiu-1992
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-SY-7-24
+  - U-D0052
   result:
     field: C
     r: 24
     s: 28
     upper: 84
   proof:
-  - Orient the two input identities as (24, 8) and (24, 20) by swapping x and y if necessary.
-  - Split the s input into disjoint blocks of sizes 8 and 20; keep the other input common.
+  - Orient the two input identities as (24, 7) and (24, 21) by swapping x and y if necessary.
+  - Split the s input into disjoint blocks of sizes 7 and 21; keep the other input common.
   - Concatenate the output forms. Adding the two identities gives [24,28,84].
   parameters:
     axis: s
-    split: 8
+    split: 7
     oriented_input_cells:
     - - 24
-      - 8
+      - 7
     - - 24
-      - 20
-- id: U-D0039
+      - 21
+- id: U-D0065
   side: upper
   source_ids:
   - shapiro-2000
@@ -9896,7 +9891,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-9-32
-  - U-D0028
+  - U-D0045
   result:
     field: C
     r: 21
@@ -9914,7 +9909,7 @@ derivations:
       - 32
     - - 12
       - 32
-- id: U-D0040
+- id: U-D0066
   side: upper
   source_ids:
   - shapiro-2000
@@ -9923,7 +9918,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-TABLE-shapiro-2000-10-31
-  - U-D0026
+  - U-D0041
   result:
     field: C
     r: 22
@@ -9941,7 +9936,64 @@ derivations:
       - 31
     - - 12
       - 31
-- id: U-D0041
+- id: U-D0067
+  side: upper
+  source_ids:
+  - shapiro-2000
+  - smith-yiu-1992
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-TABLE-shapiro-2000-10-30
+  - U-D0042
+  result:
+    field: C
+    r: 23
+    s: 30
+    upper: 84
+  proof:
+  - Orient the two input identities as (10, 30) and (13, 30) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 10 and 13; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [23,30,84].
+  parameters:
+    axis: r
+    split: 10
+    oriented_input_cells:
+    - - 10
+      - 30
+    - - 13
+      - 30
+- id: U-D0068
+  side: upper
+  source_ids:
+  - smith-yiu-1992
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-SY-8-24
+  - U-D0052
+  result:
+    field: C
+    r: 24
+    s: 29
+    upper: 84
+  proof:
+  - Orient the two input identities as (24, 8) and (24, 21) by swapping x and y if necessary.
+  - Split the s input into disjoint blocks of sizes 8 and 21; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [24,29,84].
+  parameters:
+    axis: s
+    split: 8
+    oriented_input_cells:
+    - - 24
+      - 8
+    - - 24
+      - 21
+- id: U-D0069
   side: upper
   source_ids:
   - shapiro-2000
@@ -9950,7 +10002,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-TABLE-shapiro-2000-10-32
-  - U-D0028
+  - U-D0045
   result:
     field: C
     r: 22
@@ -9968,7 +10020,65 @@ derivations:
       - 32
     - - 12
       - 32
-- id: U-D0042
+- id: U-D0070
+  side: upper
+  source_ids:
+  - shapiro-2000
+  - smith-yiu-1992
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-TABLE-shapiro-2000-10-31
+  - U-D0046
+  result:
+    field: C
+    r: 23
+    s: 31
+    upper: 84
+  proof:
+  - Orient the two input identities as (10, 31) and (13, 31) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 10 and 13; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [23,31,84].
+  parameters:
+    axis: r
+    split: 10
+    oriented_input_cells:
+    - - 10
+      - 31
+    - - 13
+      - 31
+- id: U-D0071
+  side: upper
+  source_ids:
+  - shapiro-2000
+  - smith-yiu-1992
+  - zhang-huang-2017
+  - zhang-zhu-2026
+  source_locator: Input derivations below
+  operation: direct sum
+  inputs:
+  - U-TABLE-shapiro-2000-10-32
+  - U-D0050
+  result:
+    field: C
+    r: 23
+    s: 32
+    upper: 84
+  proof:
+  - Orient the two input identities as (10, 32) and (13, 32) by swapping x and y if necessary.
+  - Split the r input into disjoint blocks of sizes 10 and 13; keep the other input common.
+  - Concatenate the output forms. Adding the two identities gives [23,32,84].
+  parameters:
+    axis: r
+    split: 10
+    oriented_input_cells:
+    - - 10
+      - 32
+    - - 13
+      - 32
+- id: U-D0072
   side: upper
   source_ids:
   - smith-yiu-1992
@@ -9977,7 +10087,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-9-30
-  - U-D0033
+  - U-D0055
   result:
     field: C
     r: 25
@@ -9995,7 +10105,7 @@ derivations:
       - 30
     - - 16
       - 30
-- id: U-D0043
+- id: U-D0073
   side: upper
   source_ids:
   - shapiro-2000
@@ -10005,7 +10115,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-TABLE-shapiro-2000-10-30
-  - U-D0033
+  - U-D0055
   result:
     field: C
     r: 26
@@ -10023,7 +10133,7 @@ derivations:
       - 30
     - - 16
       - 30
-- id: U-D0044
+- id: U-D0074
   side: upper
   source_ids:
   - shapiro-2000
@@ -10033,7 +10143,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-9-31
-  - U-D0040
+  - U-D0066
   result:
     field: C
     r: 31
@@ -10051,7 +10161,7 @@ derivations:
       - 31
     - - 22
       - 31
-- id: U-D0045
+- id: U-D0075
   side: upper
   source_ids:
   - shapiro-2000
@@ -10061,7 +10171,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-SY-9-32
-  - U-D0041
+  - U-D0069
   result:
     field: C
     r: 31
@@ -10079,7 +10189,7 @@ derivations:
       - 32
     - - 22
       - 32
-- id: U-D0046
+- id: U-D0076
   side: upper
   source_ids:
   - shapiro-2000
@@ -10088,7 +10198,7 @@ derivations:
   operation: direct sum
   inputs:
   - U-TABLE-shapiro-2000-10-32
-  - U-D0041
+  - U-D0069
   result:
     field: C
     r: 32

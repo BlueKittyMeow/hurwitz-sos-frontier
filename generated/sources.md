@@ -170,13 +170,13 @@ Locators: Theorems 3–7; Corollary 5.4; Proposition 5.7; Section 5.3.
 
 Chi Zhang, Hua-Lin Huang. A Generalization of the Doubling Construction for Sums of Squares Identities. SIGMA 13, 064, 6 pages (2017).
 
-**Status:** peer-reviewed journal. **Role:** freshness comparison. **Checked:** 2026-09-26.
+**Status:** peer-reviewed journal. **Role:** numerical authority. **Checked:** 2026-09-26.
 
 DOI: [10.3842/SIGMA.2017.064](https://doi.org/10.3842/SIGMA.2017.064).
 
 Public access: [source 1](https://sigma-journal.com/2017/064/sigma17-064.pdf), [source 2](https://arxiv.org/abs/1705.04913).
 
-Locators: Main doubling theorem.
+Locators: Main doubling theorem; [r,s,n] to [r+rho(2^(m-1)),2^m s,2^m n].
 
 - From [r,s,n] obtains [r+rho(2^(m-1)),2^m s,2^m n]; not an unrestricted tensor-product rule.
 

@@ -7,7 +7,7 @@ import csv
 import json
 import yaml
 from jsonschema import Draft202012Validator, FormatChecker
-from build import build, COLUMNS, hopf, phi
+from build import build, COLUMNS, hopf, phi, rho
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -74,7 +74,7 @@ def validate(rows, sources_doc, derivations_doc, tables_doc):
         id=d['id'];out=d['result'];r,s=out['r'],out['s'];p=d['parameters']
         check(all(sid in sources for sid in d['source_ids']),f'{id}: missing source')
         parents=[ds[k] for k in d['inputs']]
-        if parents:
+        if parents and d['operation']!='published generalized doubling':
             check(set(d['source_ids'])=={sid for parent in parents for sid in parent['source_ids']},f'{id}: lost source ancestry')
         if d['side']=='upper':
             n=out['upper']
@@ -90,6 +90,11 @@ def validate(rows, sources_doc, derivations_doc, tables_doc):
                 check(n==sum(q['result']['upper'] for q in parents),f'{id}: output sum')
                 a,b=pair
                 check((a[0]+b[0]==r and a[1]==b[1]==s) if axis=='r' else (a[1]+b[1]==s and a[0]==b[0]==r),f'{id}: input split')
+            elif d['operation']=='published generalized doubling':
+                check(len(parents)==1 and 'zhang-huang-2017' in d['source_ids'],f'{id}: doubling authority')
+                q=parents[0]['result'];x,y=p['oriented_input_cell'];a,b=p['oriented_output_cell'];m=p['m']
+                check(sorted((x,y))==[q['r'],q['s']] and m>=1 and a==x+rho(2**(m-1)) and b==2**m*y and sorted((a,b))==[r,s] and n==2**m*q['upper'],f'{id}: doubling formula')
+                check(set(d['source_ids'])==set(parents[0]['source_ids'])|{'zhang-huang-2017'},f'{id}: doubling ancestry')
             elif p.get('theorem')=='table_construction':
                 check(any(t['r']==r and t['s']==s and t['upper']==n for t in tab[p['table']]),f'{id}: table mismatch')
             elif p.get('theorem')=='small_construction':
